@@ -6,7 +6,7 @@ type IProps = {
 
 const Header: FC<IProps> = ({ title }) => {
   return (
-    <h2 className="font-semibold text-white text-[52px] border-b border-light-brown">
+    <h2 className="font-semibold text-white text-2xl md:text-5xl lg:text-[52px] border-b border-light-brown">
       {title}
     </h2>
   );
