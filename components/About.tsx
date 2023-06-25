@@ -1,11 +1,11 @@
 import React from "react";
-import { Header } from "./UI";
+import { Heading } from "./UI";
 import Image from "next/image";
 
 const About = () => {
   return (
     <section className="text-center mt-20 p-2">
-      <Header title="¡Desentierra la magia del café!" />
+      <Heading title="¡Desentierra la magia del café!" />
       <div className="flex flex-col sm:flex-row gap-10 mt-20">
         <div className="flex-1 h-[550px] drop-shadow-xl">
           <Image

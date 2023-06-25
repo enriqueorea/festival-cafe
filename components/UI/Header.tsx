@@ -1,14 +1,14 @@
-import React, { FC } from "react";
-
-type IProps = {
-  title: string;
-};
-
-const Header: FC<IProps> = ({ title }) => {
+import Image from "next/image";
+import Link from "next/link";
+const Header = () => {
   return (
-    <h2 className="font-semibold text-white text-2xl md:text-5xl lg:text-[52px] border-b border-light-brown">
-      {title}
-    </h2>
+    <header className="max-w-[1200px] p-4 mx-auto">
+      <div>
+        <Link href={"/"}>
+          <Image src={"/logo.png"} width={80} height={80} alt="logo" />
+        </Link>
+      </div>
+    </header>
   );
 };
 
