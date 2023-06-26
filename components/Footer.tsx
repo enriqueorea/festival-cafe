@@ -14,13 +14,13 @@ const Contact = () => {
           <h1>Festival Café Veracruz</h1>
         </div>
         <div className="flex flex-col md:flex-row gap-4 items-center">
-          <a className="text-white hover:text-light-brown" href="#sedes">
+          <a className="text-white hover:text-light-brown" href="/#sedes">
             Sedes
           </a>
-          <a className="text-white hover:text-light-brown" href="#programa">
+          <a className="text-white hover:text-light-brown" href="/#programa">
             Programa
           </a>
-          <a className="text-white hover:text-light-brown" href="#about">
+          <a className="text-white hover:text-light-brown" href="/#about">
             Acerca del festival
           </a>
         </div>

@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const About = () => {
   return (
-    <section className="text-center mt-10 p-2">
+    <section id="about" className="text-center mt-10 p-2">
       <Heading title="¡Desentierra la magia del café!" />
       <div className="flex flex-col sm:flex-row gap-10 mt-10">
         <div className="flex-1 h-[550px] drop-shadow-xl">
