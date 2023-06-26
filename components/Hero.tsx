@@ -5,7 +5,7 @@ import { Button } from "./UI";
 const Hero = () => {
   return (
     <section id="hero" className="relative flex items-center justify-center">
-      <div className="min-h-[100dvh] pt-16 sm:pt-20">
+      <div className="min-h-[100dvh] pt-12 sm:pt-16">
         <div className="w-[325px] md:w-[750px]">
           <h1 className="text-3xl mb-5 sm:mb-0 sm:text-[48px] text-light-brown font-extralight text-center">
             DEL 30 DE JUNIO

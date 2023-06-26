@@ -1,6 +1,7 @@
 import Header from "@/components/UI/Header";
 import "./globals.css";
 import Image from "next/image";
+import { Footer } from "@/components";
 
 export const metadata = {
   title: "Festival del Café",
@@ -17,7 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-dark-purple relative">
         <Header />
-        {children}{" "}
+        {children} <Footer />
         <div className="hidden lg:block bg-fixed fixed w-[210px] h-[850px] left-0 bottom-0 scale-125">
           <Image
             alt="Festival background"
