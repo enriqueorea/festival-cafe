@@ -8,6 +8,7 @@ export interface Actividad {
 export interface Sede {
   id: string;
   name: string;
+  thumbnail: string;
   image: string;
   map?: string;
   description: string[];

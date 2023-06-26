@@ -17,13 +17,13 @@ const Program: FC<IProps> = ({ program }) => {
     <div className="mt-5">
       {Object.keys(programByDay).map((fecha, i) => (
         <div key={fecha}>
-          <h2
-            className={`text-center text-3xl mb-2 text-yellow font-semibold ${
+          <h3
+            className={`text-center  mb-2 text-yellow font-semibold ${
               i != 0 ? "mt-5" : ""
             }`}
           >
             {fecha}
-          </h2>
+          </h3>
           <div className="flex items-center justify-center">
             <table className="w-full text-center text-white border-collapse border border-dark-green">
               <thead>

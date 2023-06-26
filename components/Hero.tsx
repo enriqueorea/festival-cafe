@@ -4,12 +4,9 @@ import { Button } from "./UI";
 
 const Hero = () => {
   return (
-    <section
-      id="hero"
-      className="relative min-h-[100vh] flex items-center justify-center"
-    >
-      <div className="min-h-[100vh] pt-20 sm:pt-36">
-        <div className="w-[325px] md:w-[750px] h-[300px]">
+    <section id="hero" className="relative flex items-center justify-center">
+      <div className="min-h-[100dvh] pt-16 sm:pt-20">
+        <div className="w-[325px] md:w-[750px]">
           <h1 className="text-3xl mb-5 sm:mb-0 sm:text-[48px] text-light-brown font-extralight text-center">
             DEL 30 DE JUNIO
             <br />
@@ -23,8 +20,12 @@ const Hero = () => {
             src="/logo.png"
           />
           <div className="flex flex-col md:flex-row items-center justify-center gap-5 mt-20">
-            <Button title="Sedes" />
-            <Button title="Actividades" />
+            <a href="#sedes">
+              <Button title="Sedes" />
+            </a>
+            <a href={"#programa"}>
+              <Button title="Actividades" />
+            </a>
           </div>
         </div>
       </div>
