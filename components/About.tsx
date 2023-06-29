@@ -17,7 +17,7 @@ const About = () => {
           />
         </div>
         <div className="flex-1">
-          <p className="text-start">
+          <p>
             ¡Sumérgete en el fascinante mundo de aromas intensos y sabores
             audaces en el Festival Café Veracruz! Prepárate para lo inesperado y
             descubre experiencias únicas de café, justo en el corazón de la
@@ -25,7 +25,7 @@ const About = () => {
             veracruzano, desde las montañas hasta tu taza, y celebra la
             majestuosidad de nuestra cultura cafetera.
           </p>
-          <p className="text-start">
+          <p>
             Desde su creación, el festival se ha dedicado a la promoción de la
             excelencia y la diversidad del café veracruzano. Durante tres
             emocionantes días, del 30 de junio al 2 de julio, los amantes del
@@ -33,7 +33,7 @@ const About = () => {
             de cafés, aprender más sobre su proceso de cultivo y producción, y
             disfrutar de una serie de eventos artísticos y culturales.
           </p>
-          <p className="text-start">
+          <p>
             El festival cuenta con una variedad de sedes en toda la ciudad, cada
             una con su propio sabor y carácter únicos. Desde el vibrante Parque
             Juárez hasta la histórica Galería de Arte Contemporáneo, los

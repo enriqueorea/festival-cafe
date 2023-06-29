@@ -42,7 +42,7 @@ const Program: FC<IProps> = ({ program }) => {
                     <td className="p-2 text-lg border border-dark-green font-medium">
                       {actividad.hora}
                     </td>
-                    <td className="p-2 text-lg border border-dark-green text-start font-medium">
+                    <td className="p-2 text-lg border border-dark-green font-medium">
                       {actividad.descripcion}
                     </td>
                   </tr>
