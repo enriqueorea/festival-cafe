@@ -17,12 +17,12 @@ const PlacePage = async ({ params }: IProps) => {
   return (
     <section className="mt-14 p-2">
       <div className="flex flex-col gap-5">
-        <div className="relative w-full h-[500px]">
+        <div className="relative w-full h-[550px]">
           <Image
             src={sede.image}
             alt={sede.name}
             fill
-            className="w-full h-full object-cover brightness-90"
+            className="w-full aspect-video object-contain brightness-90"
           />
         </div>
         <div className="flex flex-col md:flex-col gap-6">

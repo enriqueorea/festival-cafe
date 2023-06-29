@@ -27,7 +27,12 @@ const Contact = () => {
       </div>
       <div className="flex flex-col md:flex-row gap-5 items-center justify-between">
         <Link href={"http://www.veracruz.gob.mx/AGROPECUARIO/"}>
-          <Image src={"/sedarpa.png"} width={180} height={100} alt="logo" />
+          <Image
+            src={"/sedarpa-dorado.png"}
+            width={180}
+            height={100}
+            alt="logo"
+          />
         </Link>
         <div className="flex gap-4">
           <Link href={"https://www.facebook.com/SEDARPAVer/"}>
