@@ -4,7 +4,7 @@ import Image from "next/image";
 import { Footer } from "@/components";
 
 export const metadata = {
-  title: "Festival del CaféPrimer Festival Café Veracruz 2023",
+  title: "Primer Festival Café Veracruz 2023",
   description:
     " El Festival del Café es un evento que se realiza en el municipio Xalapa, Veracruz, México, con el objetivo de promover la cultura del café, así como la cultura de la región.",
 };
