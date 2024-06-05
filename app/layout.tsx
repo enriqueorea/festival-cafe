@@ -2,11 +2,28 @@ import Header from "@/components/UI/Header";
 import "./globals.css";
 import Image from "next/image";
 import { Footer } from "@/components";
+import { Metadata } from "next";
 
-export const metadata = {
-  title: "Primer Festival Café Veracruz 2023",
+export const metadata: Metadata = {
+  title: "Segundo Festival Café Veracruz 2024",
   description:
     " El Festival del Café es un evento que se realiza en el municipio Xalapa, Veracruz, México, con el objetivo de promover la cultura del café, así como la cultura de la región.",
+  openGraph: {
+    title:
+      "Festival Café Veracruz 2024: Descubre los Sabores y Aromas del Café",
+    description:
+      "Sumérgete en el fascinante mundo del café en el Festival Café Veracruz. Del 05 al 07 de julio, celebra la riqueza y diversidad del café veracruzano con degustaciones, talleres y eventos culturales en el corazón de Xalapa.",
+    type: "website",
+    url: "https://festival-cafe.vercel.app/",
+    images: ["/logo2.png"],
+  },
+  twitter: {
+    title:
+      "Festival Café Veracruz 2024: Descubre los Sabores y Aromas del Café",
+    description:
+      "Sumérgete en el fascinante mundo del café en el Festival Café Veracruz. Del 05 al 07 de julio, celebra la riqueza y diversidad del café veracruzano con degustaciones, talleres y eventos culturales en el corazón de Xalapa.",
+    images: ["/logo2.png"],
+  },
 };
 
 export default function RootLayout({
