@@ -13,407 +13,78 @@ export const sedes: Sede[] = [
     ],
     program: [
       {
-        fecha: "30 de junio",
-        hora: "10:00 h",
-        descripcion: "Apertura de stands",
+        fecha: "05 de julio",
+        hora: "12:30 p.m.",
+        descripcion: "Inauguración",
       },
       {
-        fecha: "30 de junio",
-        hora: "11:00 a 12:00 h",
-        descripcion: "Participación de soprano Grethel Amor",
+        fecha: "05 de julio",
+        hora: "1:30 p.m.",
+        descripcion: "Orquesta Municipal de Xalapa",
       },
       {
-        fecha: "30 de junio",
-        hora: "12:30 a 13:30 h",
-        descripcion: "Ballet folklórico UV",
+        fecha: "05 de julio",
+        hora: "2:30 p.m.",
+        descripcion: "Dueto con Ricardo y Gema Juárez",
       },
       {
-        fecha: "30 de junio",
-        hora: "17:00 a 17:30 h",
-        descripcion:
-          "Inauguración (corte de listón y recorrido por los stands)",
+        fecha: "05 de julio",
+        hora: "7:00 p.m.",
+        descripcion: "Ballet Folklórico UV",
       },
       {
-        fecha: "30 de junio",
-        hora: "17:30 a 18:30 h",
-        descripcion: "Orquesta Sinfónica del H. Ayuntamiento de Xalapa",
+        fecha: "06 de julio",
+        hora: "12:00 p.m.",
+        descripcion: "Ballet Folklórico Kinich",
       },
       {
-        fecha: "30 de junio",
-        hora: "17:00 a 18:00 h",
-        descripcion: "Hora feliz del café",
+        fecha: "06 de julio",
+        hora: "1:30 p.m.",
+        descripcion: "Grupo Mela´O",
       },
       {
-        fecha: "1 de julio",
-        hora: "10:00 h",
-        descripcion: "Apertura de stands",
+        fecha: "06 de julio",
+        hora: "4:00 p.m.",
+        descripcion: "Tuna UV",
       },
       {
-        fecha: "1 de julio",
-        hora: "11:00 a 12:00 h",
-        descripcion: "Participación del cantante Enrique Santoyo",
+        fecha: "06 de julio",
+        hora: "6:00 p.m.",
+        descripcion: "Orquesta de Salsa UV",
       },
       {
-        fecha: "1 de julio",
-        hora: "16:00 a 17:00 h",
-        descripcion: "Tlen-Huicani Arpa UV",
+        fecha: "06 de julio",
+        hora: "7:00 p.m.",
+        descripcion: "Salsacumbiando con Enrique y Rafa",
       },
       {
-        fecha: "1 de julio",
-        hora: "17:00 a 18:00 h",
-        descripcion: "Hora feliz del café",
+        fecha: "06 de julio",
+        hora: "8:00 p.m.",
+        descripcion: "Orquesta de Salsa UV",
       },
       {
-        fecha: "1 de julio",
-        hora: "19:00 a 20:00 h",
-        descripcion: "Orquesta de Salsa de la UV",
+        fecha: "07 de julio",
+        hora: "12:00 p.m.",
+        descripcion: "Tlen-Huicani",
       },
       {
-        fecha: "2 de julio",
-        hora: "10:00 h",
-        descripcion: "Apertura de stands",
+        fecha: "07 de julio",
+        hora: "1:00 p.m.",
+        descripcion: "Evento de Premiación Segundo Festival de Café",
       },
       {
-        fecha: "2 de julio",
-        hora: "11:00 a 12:00 h",
-        descripcion: "Mariachi universitario UV",
+        fecha: "07 de julio",
+        hora: "5:00 p.m.",
+        descripcion: "Danzón para el corazón Orquesta Pauta Nueva",
       },
       {
-        fecha: "2 de julio",
-        hora: "12:00 a 14:00 h",
-        descripcion: "Premiación del Concurso de Café 2023",
-      },
-      {
-        fecha: "2 de julio",
-        hora: "17:00 a 18:00 h",
-        descripcion: "Orquesta Pauta Nueva (Danzonera Municipal)",
+        fecha: "07 de julio",
+        hora: "7:00 p.m.",
+        descripcion: "Tlen Huicani Maderas",
       },
     ],
   },
-  //Xallitic
-  {
-    id: "xallitic",
-    name: "Xallitic",
-    image: "/xallitic.jpg",
-    thumbnail: "/xallitic.jpg",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d558.9626725227697!2d-96.92268610370174!3d19.53140767339551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2e007640386d%3A0xdd2547183dd03ddb!2sPlaza%20y%20Puente%20de%20Xallitic!5e0!3m2!1ses-419!2smx!4v1687547224858!5m2!1ses-419!2smx",
-    description: [
-      "Descubre la riqueza histórica y cultural de Xalapa en el icónico barrio de Xallitic. Desde la época de la tribu Totonaca hasta nuestros días, Xallitic se ha mantenido como un faro de historia y tradición en medio del bullicio de la ciudad.",
-      "¡Ven al Festival Café Veracruz y sumérgete en una experiencia cultural sin precedentes en Xallitic! Admira el templete y los lavaderos que aún se utilizan, y déjate llevar por los pasadizos bajo el puente, donde se combinan la historia, el arte y la cultura de Xalapa. ¡No pierdas la oportunidad de sumergirte en una experiencia llena de gran café y cultura local en el corazón de Xalapa!",
-    ],
-    program: [
-      {
-        fecha: "30 de junio",
-        hora: "10:00 h",
-        descripcion: "Apertura de stands institucionales y proveedores",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "10:00 h",
-        descripcion: "Apertura de stands institucionales y proveedores",
-      },
-      {
-        fecha: "02 de julio",
-        hora: "10:00 h",
-        descripcion: "Apertura de stands institucionales y proveedores",
-      },
-    ],
-  },
-  //La Casa del Lago
-  {
-    id: "casa_lago",
-    name: "La Casa del Lago",
-    image: "/casa_lago.jpg",
-    thumbnail: "/casa_lago.jpg",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.105004514078!2d-96.92474533202454!3d19.523573203628374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2df93e6b7b17%3A0xefea20d041640bb8!2sUV%20-%20Casa%20del%20Lago!5e0!3m2!1ses-419!2smx!4v1687547449173!5m2!1ses-419!2smx",
-    description: [
-      "Imagina un lugar donde la rica historia se mezcla con la vibrante cultura contemporánea, ese lugar es la Casa del Lago. Con casi dos siglos de historia, este centro cultural universitario es un emblema de Xalapa y será uno de los escenarios del Festival Café Veracruz.",
 
-      "Este recinto ha evolucionado a través del tiempo, adaptándose a las necesidades culturales de la ciudad, siendo hoy un espacio donde se promueve el arte y la cultura. Te invitamos a descubrir la magia de la Casa del Lago, un lugar donde la herencia histórica de Xalapa y la efervescencia del café veracruzano se entrelazan. ¡Ven y sumérgete en la experiencia del Festival Café Veracruz en la Casa del Lago!",
-    ],
-    program: [
-      {
-        fecha: "30 de junio",
-        hora: "16:00 h",
-        descripcion: "Festival Folklórico Internacional de Veracruz Inspirarte",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "10:00 a 14:00 h",
-        descripcion:
-          "Degustación de café para público en general /  Degustación de café para compradores",
-      },
-    ],
-  },
-  //galeria de arte contemporaneo
-  {
-    id: "galeria_arte",
-    name: "Galería de Arte Contemporáneo",
-    image: "/galeria_arte.jpg",
-    thumbnail: "/galeria_arte.jpg",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d664.7309657613928!2d-96.91552726119912!3d19.529323110293216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db3202288cda21%3A0x3e45e7a7580e9fe0!2sGaler%C3%ADa%20de%20Arte%20Contempor%C3%A1neo!5e0!3m2!1ses-419!2smx!4v1687547581149!5m2!1ses-419!2smx",
-    description: [
-      "La Galería de Arte Contemporáneo de Xalapa, una joya arquitectónica del siglo XVIII, será una de las sedes cautivadoras del Festival Café Veracruz. Anteriormente conocida como el Mesón de San Bernardo, este espacio ha sido un punto de encuentro para viajeros y comerciantes, y ahora alberga algunas de las expresiones artísticas más vanguardistas de Veracruz.",
-      "Te invitamos a ser parte de esta celebración única de café y cultura en la Galería de Arte Contemporáneo. Sumérgete en la riqueza del arte contemporáneo mientras saboreas las delicadas notas de los cafés veracruzanos. ¡Ven y vive una experiencia inolvidable en el Festival Café Veracruz en la Galería de Arte Contemporáneo!",
-    ],
-    program: [
-      {
-        fecha: "30 de junio",
-        hora: "10:00 a 10:45 h",
-        descripcion: "El quehacer de la UACH",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "11:00 a 11:45 h",
-        descripcion: "Aportaciones del CRUO-UACH a la cafeticultura mexicana",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "12:00 a 12:45 h",
-        descripcion: "Micorrizas: ¿amigas o enemigas del café?",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "13:00 a 13:45 h",
-        descripcion:
-          "Escenarios de cambio climático en el potencial productivo regional de café: Casos en el estado de Veracruz",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "14:00 a 14:45 h",
-        descripcion: "Organización Social de Proyectos desde ESS",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "15:00 a 15:45 h",
-        descripcion: "Gestión de la Calidad del Café",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "16:00 a 16:45 h",
-        descripcion:
-          "Panel de compradores: Cafés diferenciados y de especialidad",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "17:00 a 17:45 h",
-        descripcion:
-          "La poda de cafetos: Una práctica para recuperar la productividad del cafetal",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "09:30 a 10:15 h",
-        descripcion: "Variedad y calidad del café",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "10:30 a 11:15 h",
-        descripcion: "Certificación de semilla de café en México",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "11:30 a 12:15 h",
-        descripcion:
-          "Variedades de café injertadas y propagadas por semilla en suelos con presencia de nemátodos",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "12:30 a 13:15 h",
-        descripcion:
-          "Impacto del cambio climático en el potencial productivo de café en México",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "13:30 a 14:15 h",
-        descripcion: "Diversificación de cultivos en cafetales",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "14:30 a 15:15 h",
-        descripcion: "Cafeticultura y sustentabilidad",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "15:30 a 16:15 h",
-        descripcion: "Nutrición del cafeto y conservación de suelos",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "16:30 a 17:15 h",
-        descripcion: "Interpretación y análisis de suelo",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "17:30 a 18:15 h",
-        descripcion:
-          "¿Cómo se defienden las plantas? La interacción roya - cafeto",
-      },
-      {
-        fecha: "02 de julio",
-        hora: "09:30 a 10:15 h",
-        descripcion: "Una práctica antigua vista con nuevos ojos: Los Injertos",
-      },
-      {
-        fecha: "02 de julio",
-        hora: "10:30 a 11:15 h",
-        descripcion:
-          "Técnicas para la restauración de los suelos agrícolas y formas de alta producción",
-      },
-    ],
-  },
-  //cafeteria 4 regiones
-  {
-    id: "cafeteria_4",
-    name: "Cafetería 4 Regiones",
-    image: "/cafeteria_4.jpg",
-    thumbnail: "/cafeteria_4.jpg",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.01976231569049!2d-96.92022345770027!3d19.528033950275862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db33daf6766f75%3A0x5f981aa5337c60e0!2s4%20Regiones!5e0!3m2!1ses-419!2smx!4v1687547892207!5m2!1ses-419!2smx",
-    description: [
-      "La Cafetería 4 Regiones, ubicada en el corazón de Xalapa, será una de las sedes del Festival Café Veracruz. Este espacio, que anteriormente fue un restaurante, se ha convertido en un punto de encuentro para los amantes del café y la cultura. ",
-      "Ven y descubre la magia de la Cafetería 4 Regiones, donde la historia y la cultura se mezclan con el aroma del café veracruzano. ¡Te esperamos en el Festival Café Veracruz en la Cafetería 4 Regiones!",
-    ],
-    program: [
-      {
-        fecha: "30 de junio",
-        hora: "09:00 a 09:45 h",
-        descripcion: "Impacto de cambio climático en la producción del café",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "10:00 a 10:45 h",
-        descripcion:
-          "Curso: El café de especialidad revoluciona el comercio del siglo XXI",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "11:00 a 11:45 h",
-        descripcion: "Curso: Vulnerabilidad al cambio climático",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "12:00 a 12:45 h",
-        descripcion: "Curso: Manejo de nemátodos con la aplicación de hongos",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "13:00 a 13:45 h",
-        descripcion:
-          "Curso: Casas tostadoras de café y la generación de nuevos consumidores en zonas urbanas",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "14:00 a 14:45 h",
-        descripcion:
-          "Curso: Robustas tolerantes a plagas del suelo y altamente productivos",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "15:00 a 15:45 h",
-        descripcion:
-          "Curso: Evaluación cualitativa de suelos y bioinsumos por medio de la cromatografía analítica",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "16:00 a 16:45 h",
-        descripcion: "El café en un entorno con presencia de roya",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "17:00 a 17:45 h",
-        descripcion: "Variedades resistentes a la roya del cafeto",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "18:00 a 18:45 h",
-        descripcion: "Servicios ambientales en los sistemas cafetaleros",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "09:30 a 11:30 h",
-        descripcion: "Taller: Injertos de cafe",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "11:45 a 13:00 h",
-        descripcion: "Degustaciones de cafe",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "13:00 14:00 h",
-        descripcion: "Dosis óptima de fertilización",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "14:15 15:30h",
-        descripcion: "Catacion en verde del cafe",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "15:45 17:00 h",
-        descripcion: "Mesa de diálogo: Compradores de café",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "17:00 a 17:45 h",
-        descripcion: "Construyendo la cafeticultura resiliente en México",
-      },
-    ],
-  },
-  //Hotel holiday inn Xalapa
-  {
-    id: "holiday_inn",
-    name: "Hotel Holiday Inn Xalapa",
-    image: "/holiday_inn.jpg",
-    thumbnail: "/holiday_inn.jpg",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d790.5155562160904!2d-96.92288702728243!3d19.526715053814687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2e2dfb6f9b41%3A0x4d9846fd7a8336f4!2sHoliday%20Inn%20Express%20Xalapa%2C%20an%20IHG%20Hotel!5e0!3m2!1ses-419!2smx!4v1687548051029!5m2!1ses-419!2smx",
-    description: [
-      "El Hotel Holiday Inn Xalapa, ubicado en el corazón de la ciudad, será una de las sedes del Festival Café Veracruz. Este hotel, que anteriormente fue un restaurante, se ha convertido en un punto de encuentro para los amantes del café y la cultura. ",
-      "Ven y descubre la magia del Hotel Holiday Inn Xalapa, donde la historia y la cultura se mezclan con el aroma del café veracruzano. ¡Te esperamos en el Festival Café Veracruz en el Hotel Holiday Inn Xalapa!",
-    ],
-    program: [
-      {
-        fecha: "30 de junio",
-        hora: "09:30 h",
-        descripcion:
-          "Desarrollo de empleo y sustentabilidad en el Sur-Sureste de Mexico.",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "10:30 h",
-        descripcion: "Xilosandrus compactus",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "11:30 h",
-        descripcion: "Oferta exportable a Estados Unidos",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "12:30 h",
-        descripcion: "Manejo agroecológico de la broca del café",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "13:30 h",
-        descripcion: "¿Cómo tomar una decisión de ventas?",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "14:30 h",
-        descripcion: "Retos y oportunidades de cooperativas de café",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "15:30 h",
-        descripcion: "Calidad y química del café",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "16:30 h",
-        descripcion: "El microbioma asociado al nemátodo agallador del cafeto",
-      },
-    ],
-  },
   //Bajos del Palacio de Gobierno
   {
     id: "palacio_gobierno",
@@ -425,81 +96,220 @@ export const sedes: Sede[] = [
       "Explora el corazón cívico de Xalapa en los bajos del Palacio Municipal y del Palacio de Gobierno del Estado, ambos íconos históricos en el centro de la ciudad. Con sus majestuosos murales contemporáneos que relatan la historia de México, estos edificios son un testimonio de la rica tradición y patrimonio de Xalapa.",
       "Únete a nosotros en el Festival Café Veracruz y déjate envolver por la historia y la cultura mientras disfrutas del aroma y los sabores de los cafés de todo Veracruz. ¡Sumérgete en la experiencia única que te ofrecen los bajos del Palacio, entre café, arte e historia!",
     ],
-    program: [
-      {
-        fecha: "01 de julio",
-        hora: "10:00 h",
-        descripcion: "Expoventa de artesanías y derivados del café",
-      },
-      {
-        fecha: "02 de julio",
-        hora: "10:00 h",
-        descripcion: "Expoventa de artesanías y derivados del café",
-      },
-    ],
+    program: [],
   },
-  //Bajos del Palacio Municipal
+
+  //Biblioteca Carlos Fuentes
   {
-    id: "palacio_municipal",
-    name: "Bajos del Palacio Municipal",
-    image: "/palacio_municipal.jpg",
-    thumbnail: "/palacio_municipal.jpg",
-    map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.08456743457!2d-96.92323113035015!3d19.527085662830146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2dfee1507079%3A0x956e0465563b4d6c!2sPalacio%20Municipal%20de%20Xalapa!5e0!3m2!1ses-419!2smx!4v1687548370437!5m2!1ses-419!2smx",
+    id: "biblioteca_carlos_fuentes",
+    name: "Biblioteca Carlos Fuentes",
+    image: "/carlos_fuentes.png",
+    thumbnail: "/carlos_fuentes.png",
+    map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15041.398825900093!2d-96.9246658!3d19.5265943!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2dfec15cb7e1%3A0x2d3a737d15a23c41!2sBiblioteca%20%22Carlos%20Fuentes%22!5e0!3m2!1ses-419!2smx!4v1717615419418!5m2!1ses-419!2smx",
     description: [
-      "Explora el corazón cívico de Xalapa en los bajos del Palacio Municipal y del Palacio de Gobierno del Estado, ambos íconos históricos en el centro de la ciudad. Con sus majestuosos murales contemporáneos que relatan la historia de México, estos edificios son un testimonio de la rica tradición y patrimonio de Xalapa.",
-      "Únete a nosotros en el Festival Café Veracruz y déjate envolver por la historia y la cultura mientras disfrutas del aroma y los sabores de los cafés de todo Veracruz. ¡Sumérgete en la experiencia única que te ofrecen los bajos del Palacio, entre café, arte e historia!",
+      "Ubicada en la esquina de J.J. Herrera y Úrsulo Galván, la Biblioteca Carlos Fuentes es un pilar de la educación y la cultura en Xalapa. Fundada en 1983, esta institución ha crecido significativamente tanto en acervo como en infraestructura, pasando de un pequeño espacio de 32 metros cuadrados a una imponente área de 3,500 metros cuadrados distribuidos en cuatro niveles.",
+      "La Biblioteca Carlos Fuentes ofrece servicios de información y consulta bibliográfica a estudiantes de todos los niveles educativos y a la comunidad en general, promoviendo el hábito de la lectura y facilitando la investigación. Con un acervo de aproximadamente 23,000 volúmenes, 242 archivos verticales y alrededor de tres mil revistas en 227 títulos, este espacio es un verdadero baluarte del conocimiento.",
+      "Además de su vasta colección, la biblioteca cuenta con modernas instalaciones que incluyen un área de recepción, una galería de arte, un auditorio, áreas de consulta, acervo general, hemeroteca, área de cómputo, cafetería y un mirador. José González Martínez Melo, actual encargado del recinto, asegura que aunque aún falta mucho por hacer, los avances han sido significativos y el crecimiento continuará.",
+      "Visita la Biblioteca Carlos Fuentes y descubre un lugar donde la historia y la modernidad se entrelazan, ofreciendo un ambiente propicio para el aprendizaje y la cultura. Desde su reinauguración en 2004, este espacio no solo es un centro de consulta bibliográfica, sino también un punto de encuentro para actividades socioculturales que fomentan el desarrollo integral de sus usuarios. ¡Te esperamos para que formes parte de esta comunidad del saber!",
     ],
     program: [
       {
-        fecha: "30 de junio",
-        hora: "10:00 h",
+        fecha: "05 de julio",
+        hora: "9:30-10:30 a.m.",
         descripcion:
-          'Elaboración del Mural "Café Veracruz: Grandeza, Naturaleza y Cultura"',
+          "Chapingo y la formación del agrónomo necesario ante los nuevos escenarios de la agricultura sostenible - M.C. Noé López Martínez (UACH)",
       },
       {
-        fecha: "30 de junio",
-        hora: "10:00 h",
-        descripcion: "Lotería del café",
-      },
-      {
-        fecha: "30 de junio",
-        hora: "10:00 h",
+        fecha: "05 de julio",
+        hora: "10:30-11:30 a.m.",
         descripcion:
-          "Proyección: El mundo del café en Veracruz, cultivo y procesamiento del café",
+          "Estrategias de transición agroeocológica para el manejo de cafetales - Dr. Atenógenes Licona Vargas (UACH)",
       },
       {
-        fecha: "01 de julio",
-        hora: "10:00 h",
+        fecha: "05 de julio",
+        hora: "11:30-12:30 p.m.",
         descripcion:
-          'Elaboración del Mural "Café Veracruz: Grandeza, Naturaleza y Cultura"',
+          "Innovaciones tecnológicas en la cadena productiva de café - M.C. José Domingo Robledo Martínez (UACH)",
       },
       {
-        fecha: "01 de julio",
-        hora: "10:00 h",
-        descripcion: "Lotería del café",
-      },
-      {
-        fecha: "01 de julio",
-        hora: "10:00 h",
+        fecha: "05 de julio",
+        hora: "1:30-2:30 p.m.",
         descripcion:
-          "Proyección: El mundo del café en Veracruz, cultivo y procesamiento del café",
+          "Tipología de productores y rentabilidad agrogeográfica en el cultivo de café - Dr. Gabriel Díaz Padilla (INIFAP)",
       },
       {
-        fecha: "02 de julio",
-        hora: "10:00 h",
+        fecha: "05 de julio",
+        hora: "3:30-4:30 p.m.",
         descripcion:
-          'Elaboración del Mural "Café Veracruz: Grandeza, Naturaleza y Cultura"',
+          "Variedades de café en manejo orgánico - Dr. Francisco Javier López García (UACH)",
       },
       {
-        fecha: "02 de julio",
-        hora: "10:00 h",
-        descripcion: "Lotería del café",
-      },
-      {
-        fecha: "02 de julio",
-        hora: "10:00 h",
+        fecha: "05 de julio",
+        hora: "4:30-5:30 p.m.",
         descripcion:
-          "Proyección: El mundo del café en Veracruz, cultivo y procesamiento del café",
+          "Caracterización de materiales genéticos en el banco de germoplasma de café - M.C. Rosalío López Morgado (INIFAP)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "9:30-10:30 a.m.",
+        descripcion:
+          "Laboratorio de café para la contribución al relevo generacional de familias productoras de café, en la zona de Huatusco, Ver. - Mtro. José Menéndez Cruz (UPH)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "10:30-11:30 a.m.",
+        descripcion:
+          "Potenciar el café de especialidad. Surgimiento y políticas públicas necesarias - Mtra. M. Susana Córdova Santamaría (UACH)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "11:30-12:30 p.m.",
+        descripcion:
+          "Cafeterías de especialidad en México - Dra. Roselia Servín Juárez (COLPOS)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "1:30-2:30 p.m.",
+        descripcion:
+          "Prevención y manejo de nemátodos en cafetales - Mtra. Dinorah Lima Rivera y Dr. Daniel López Lima (UV)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "3:30-4:30 p.m.",
+        descripcion:
+          "Técnicas avanzadas en el mejoramiento genético del café: caso de la resistencia a roya - Dr. Edgar Couttolenc Brenis (INIFAP)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "4:30-5:30 p.m.",
+        descripcion:
+          "Manejo de la broca del café - Ing. Jorge Jiménez Zilli (ANDREB S.A. de C.V.)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "5:30-6:30 p.m.",
+        descripcion:
+          "Situación Actual del Barrenador Negro de la Rama del Café y su manejo - Ing. Armando Equihua (COLPOS)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "9:30-10:30 a.m.",
+        descripcion:
+          "Exportación de café - Mtro. Ramsés Alaín Sánchez Herrera (SEDECOP)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "10:30-11:30 a.m.",
+        descripcion:
+          "No le tengas miedo al SAT. Beneficios para el Sector Cafetalero - LCP. Tania Arlet Sánchez Vázquez (UPH)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "11:30-12:30 p.m.",
+        descripcion:
+          "Listos para comercializar - Lic. Adrián Eligio González Santiago (SEDECOP)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "1:30-2:30 p.m.",
+        descripcion:
+          "Hacia una política cafetalera integral en México - M.C. Salvador Díaz Cárdenas e Ing. Lucila Martínez Munguía (UACH)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "3:30-4:30 p.m.",
+        descripcion:
+          "Avances de la Estrategia de café del programa Sembrando Vida en Veracruz - Dr. Esteban Escamilla Prado (UACH)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "4:30-5:30 p.m.",
+        descripcion:
+          "Modelos de negocios para el fortalecimiento del cooperativismo cafetalero - Dra. Erika María Gasperín García (UPH)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "9:30-10:30 a.m.",
+        descripcion:
+          "¿Qué es el microclima en los cafetales? - Dr. Paulo César Parada Molina (UV)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "10:30-11:30 a.m.",
+        descripcion:
+          "¿Cómo modificamos el microclima en los cafetales? - Dr. Carlos Roberto Cerdán Cabrera (UV)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "11:30-12:30 p.m.",
+        descripcion:
+          "Comportamiento de variables meteorológicas ante los eventos del ENSO: caso de la zona centro de Veracruz - M.G. Rafael Alberto Guajardo Panes (INIFAP)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "1:30-2:30 p.m.",
+        descripcion:
+          "Fenología de la floración y maduración del fruto de café - Dr. Marco Antonio Toral Juárez (INIFAP)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "3:30-4:30 p.m.",
+        descripcion:
+          "Vulnerabilidad y adaptación al cambio climático en la cafeticultura de Veracruz - M.C. Juan Ángel Tinoco Rueda (UACH)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "4:30-5:30 p.m.",
+        descripcion:
+          "Formulación de biofertilizantes para café - Ing. Osiel Rodríguez Nieto (SANTA JULIA S.A. de C.V.)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "10:00-11:30 a.m.",
+        descripcion:
+          "Fundamentos básicos de barista - Ing. Amalia García Martínez (COLPOS)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "11:30-1:00 p.m.",
+        descripcion:
+          "Tostado de Café - Mtro. Luis Alberto Castillo González, Ing. Edgardo Salazar Marcial, Dr. Juan Salazar Ortíz (COLPOS)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "1:00-2:30 p.m.",
+        descripcion:
+          "Elaboración de galletas de café - Lic. Hannia Jessica Rodríguez Jiménez y Lic. Blanca Rubí Serrano Vázquez (COLPOS)",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "3:30-5:00 p.m.",
+        descripcion:
+          "Evaluación de la calidad del café: conceptos básicos para grandes resultados - Dra. Claudia Lorena Fernández López (UPH)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "10:00-11:30 a.m.",
+        descripcion:
+          "Taller Injertos de café (Ventajas y desventajas frente al cambio climático) - Tec. Alejandro Paz González (UACH)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "11:30-1:00 p.m.",
+        descripcion:
+          "Taller de Catación en verde - M.C. Salvador Díaz Cárdenas, Ing. Lucila Martínez Munguía y Lic. María de los Ángeles Fuentes Gallardo (UACH)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "1:00-2:30 p.m.",
+        descripcion:
+          "Taller Catación de café - M.C. Salvador Díaz Cárdenas, Ing. Lucila Martínez Munguía y Lic. María de los Ángeles Fuentes Gallardo (UACH)",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "3:30-4:30 p.m.",
+        descripcion:
+          "Tostado de muestras de café - Mtro. José Menéndez Cruz (UPH)",
       },
     ],
   },

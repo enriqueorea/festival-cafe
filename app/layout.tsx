@@ -18,7 +18,8 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-dark-purple relative">
         <Header />
-        {children} <Footer />
+        <main>{children}</main>
+        <Footer />
         <div className="hidden lg:block bg-fixed fixed w-[210px] h-[850px] left-0 bottom-0 scale-125">
           <Image
             alt="Festival background"

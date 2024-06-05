@@ -28,7 +28,7 @@ const About = () => {
           <p>
             Desde su creación, el festival se ha dedicado a la promoción de la
             excelencia y la diversidad del café veracruzano. Durante tres
-            emocionantes días, del 30 de junio al 2 de julio, los amantes del
+            emocionantes días, del 05 de julio al 07 de julio, los amantes del
             café de todo el mundo se congregan para degustar una amplia variedad
             de cafés, aprender más sobre su proceso de cultivo y producción, y
             disfrutar de una serie de eventos artísticos y culturales.

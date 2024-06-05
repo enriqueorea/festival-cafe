@@ -5,7 +5,7 @@ const Header = () => {
     <header className="max-w-[1200px] p-4 mx-auto">
       <div>
         <Link href={"/"}>
-          <Image src={"/logo.png"} width={80} height={80} alt="logo" />
+          <Image src={"/logo2.png"} width={80} height={80} alt="logo" />
         </Link>
       </div>
     </header>

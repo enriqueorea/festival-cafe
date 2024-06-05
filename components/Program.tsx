@@ -13,6 +13,8 @@ const Program: FC<IProps> = ({ program }) => {
     programByDay[actividad.fecha].push(actividad);
   });
 
+  if (!program.length) return null;
+
   return (
     <div className="mt-5">
       {Object.keys(programByDay).map((fecha, i) => (
