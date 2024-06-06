@@ -5,12 +5,10 @@ import { Button } from "./UI";
 const Hero = () => {
   return (
     <section id="hero" className="relative flex items-center justify-center">
-      <div className="min-h-[100dvh] pt-12 sm:pt-16">
+      <div className="min-h-[100dvh] pt-12 sm:pt-24">
         <div className="w-[325px] md:w-[750px]">
           <h1 className="text-3xl mb-5 sm:mb-0 sm:text-[48px] text-light-brown font-extralight text-center">
-            DEL 05 DE JULIO
-            <br />
-            AL 07 DE JULIO
+            DEL 5 AL 7 DE JULIO
           </h1>
           <div className="flex flex-col">
             <Image
@@ -20,6 +18,7 @@ const Hero = () => {
               className="object-contain w-full h-auto relative"
               src="/logo2.png"
             />
+
             <div className="py-4 flex items-center">
               <div className="flex-1 border-b-2 border-white mx-3"></div>
               <span className="text-light-brown font-light text-base md:text-4xl">

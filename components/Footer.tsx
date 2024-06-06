@@ -5,48 +5,48 @@ import { BsFacebook, BsTwitter } from "react-icons/bs";
 
 const Contact = () => {
   return (
-    <footer className="mt-14 pt-8 mb-10 max-w-[1200px] mx-auto flex flex-col gap-5 border-t-2 border-light-brown ">
+    <footer className="mt-5 pt-8 mb-10 max-w-[1200px] mx-auto flex flex-col gap-5 border-t-2 border-light-brown ">
       <div className="flex flex-wrap flex-col md:flex-row items-center justify-between">
         <div className="flex flex-col flex-wrap md:flex-row items-center gap-4">
           <Image
             src={"/logos cafe-02.png"}
-            width={180}
+            width={150}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-03.png"}
-            width={180}
+            width={150}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-04.png"}
-            width={180}
+            width={150}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-05.png"}
-            width={180}
+            width={150}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-06.png"}
-            width={180}
+            width={150}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-07.png"}
-            width={180}
+            width={150}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-08.png"}
-            width={180}
+            width={150}
             height={100}
             alt="logo"
           />

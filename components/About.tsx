@@ -6,7 +6,7 @@ const About = () => {
   return (
     <section id="about" className="text-center mt-10 p-2">
       <Heading title="¡Desentierra la magia del café!" />
-      <div className="flex flex-col sm:flex-row gap-10 mt-10">
+      <div className="mt-10">
         <div className="flex-1 h-[550px] drop-shadow-xl">
           <Image
             alt="about image"
@@ -16,7 +16,7 @@ const About = () => {
             src={"/about2.jpeg"}
           />
         </div>
-        <div className="flex-1">
+        <div className="flex-1 mt-4">
           <p>
             ¡Sumérgete en el fascinante mundo de aromas intensos y sabores
             audaces en el Festival Café Veracruz! Prepárate para lo inesperado y

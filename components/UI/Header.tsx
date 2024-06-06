@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 const Header = () => {
   return (
-    <header className="max-w-[1200px] p-4 mx-auto flex items-center justify-center">
+    <header className="max-w-[1200px] p-4 mx-auto flex items-center justify-center fixed w-full z-50 bg-dark-purple/50 top-0 left-1/2 -translate-x-1/2">
       <div>
         <Link href={"/"}>
           <Image src={"/logo2.png"} width={80} height={80} alt="logo" />
