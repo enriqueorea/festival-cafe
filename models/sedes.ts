@@ -1,5 +1,7 @@
 // sedes.ts
 export interface Actividad {
+  lugar?: string;
+  tipo?: string;
   fecha: string;
   hora: string;
   descripcion: string;

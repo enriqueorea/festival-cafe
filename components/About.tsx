@@ -13,7 +13,7 @@ const About = () => {
             className="object-cover w-full h-full"
             width={1920}
             height={1080}
-            src={"/about.png"}
+            src={"/about2.jpeg"}
           />
         </div>
         <div className="flex-1">
