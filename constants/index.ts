@@ -178,6 +178,14 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
+        fecha: "05 de julio",
+        hora: "17:30-18:30 hrs",
+        descripcion:
+          "Estudio cafetalero a nivel nacional sobre la economía de los ecosistemas y la biodiversidad - Dr. Robert H. Manson Instituto de Agroecología A.C.",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
         fecha: "06 de julio",
         hora: "09:30-10:30 hrs",
         descripcion:
