@@ -98,18 +98,8 @@ export const sedes: Sede[] = [
     ],
     program: [
       {
-        fecha: "05 de julio",
-        hora: "09:00 - 20:00 p.m.",
-        descripcion: "Expoventa de artesanías y derivados del café.",
-      },
-      {
-        fecha: "06 de julio",
-        hora: "09:00 - 20:00 p.m.",
-        descripcion: "Expoventa de artesanías y derivados del café.",
-      },
-      {
-        fecha: "07 de julio",
-        hora: "09:00 - 20:00 p.m.",
+        fecha: "Todo el evento",
+        hora: "09:00 - 20:00 hrs",
         descripcion: "Expoventa de artesanías y derivados del café.",
       },
     ],

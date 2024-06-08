@@ -3,6 +3,11 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --swiper-theme-color: #AB855B!important;
+}
+
+
 @layer base {
   html {
     font-family: "Poppins", sans-serif;
@@ -32,5 +37,9 @@
     min-height: 100dvh;
     max-width: 1200px;
     margin: 0 auto;
+  }
+
+  .swiper-button-prev {
+    color: #AB855B!important;
   }
 }
