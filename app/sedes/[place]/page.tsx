@@ -1,4 +1,5 @@
 import { Program } from "@/components";
+import Carousel from "@/components/Carousel";
 import { Heading } from "@/components/UI";
 import { sedes } from "@/constants";
 import Image from "next/image";
@@ -40,6 +41,7 @@ const PlacePage = async ({ params }: IProps) => {
           <Program program={sede.program} />
         </div>
       </div>
+      {sede.id === "parque_juarez" ? <Carousel /> : null}
       <div>
         <Heading title="Cómo llegar?" />
         <iframe
