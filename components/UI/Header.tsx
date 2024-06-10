@@ -9,6 +9,9 @@ const Header = () => {
         </Link>
       </div>
       <div className="flex-1 flex gap-4 items-center justify-center">
+        <a className="text-white hover:text-light-brown" href="/">
+          inicio
+        </a>
         <a className="text-white hover:text-light-brown" href="/#sedes">
           Sedes
         </a>
