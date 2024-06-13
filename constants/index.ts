@@ -409,3 +409,29 @@ export const sedes: Sede[] = [
     ],
   },
 ];
+
+export const srcImagesJuarez = [
+  "/carrusel0.jpeg",
+  "/carrusel1.jpeg",
+  "/carrusel2.jpeg",
+  "/carrusel3.jpeg",
+  "/carrusel4.jpeg",
+  "/carrusel5.jpeg",
+  "/carrusel6.jpeg",
+  "/carrusel7.jpeg",
+  "/carrusel8.jpeg",
+  "/carrusel9.jpeg",
+  "/carrusel10.jpeg",
+];
+
+export const srcImagesBiblioteca = [
+  "/stands1.jpeg",
+  "/stands2.jpeg",
+  "/stands3.jpeg",
+  "/stands4.jpeg",
+  "/stands5.jpg",
+  "/stands6.jpg",
+  "/stands7.jpg",
+  "/stands8.jpg",
+  "/stands9.jpg",
+];
