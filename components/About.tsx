@@ -36,13 +36,12 @@ const About = () => {
           <p>
             El festival cuenta con una variedad de sedes en toda la ciudad, cada
             una con su propio sabor y carácter únicos. Desde el vibrante Parque
-            Juárez hasta la histórica Galería de Arte Contemporáneo, los
-            visitantes pueden esperar una mezcla de actividades que incluyen
-            degustaciones de café, presentaciones musicales, paneles de
-            discusión, talleres y más. Además, el festival también acoge una
-            expoventa de artesanías y productos derivados del café,
-            proporcionando una plataforma para que los artesanos y productores
-            locales muestren su talento y pasión.
+            Juárez hasta la histórica Biblioteca Carlos Fuentes, los visitantes
+            pueden esperar una mezcla de actividades que incluyen degustaciones
+            de café, presentaciones musicales, paneles de discusión, talleres y
+            más. Además, el festival también acoge una expoventa de artesanías y
+            productos derivados del café, proporcionando una plataforma para que
+            los artesanos y productores locales muestren su talento y pasión.
           </p>
         </div>
       </div>
