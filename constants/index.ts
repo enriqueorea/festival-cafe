@@ -435,3 +435,12 @@ export const srcImagesBiblioteca = [
   "/stands8.jpg",
   "/stands9.jpg",
 ];
+
+export const srcVideo = [
+  "https://youtube.com/embed/ifQXoZWBDfs?si=ebwVSOZ4QpCh-8u7",
+  "https://youtube.com/embed/w9wpNAlqRw0?si=bGU6fhzDI_TpemKQ",
+  "https://youtube.com/embed/LGlz-sBna3o?si=5FWf9Oc0wokDIJez",
+  "https://youtube.com/embed/utuv4jZMw-o?si=k77Lkep22JRV3xD_",
+  "https://youtube.com/embed/N4KLZvoE7m8?si=BBkQ_xlLAL3gAJRN",
+  "https://youtube.com/embed/nQLkiIDsr4U?si=DfoyvhVzA0sefdXl",
+];

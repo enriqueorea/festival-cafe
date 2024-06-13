@@ -37,17 +37,17 @@ const Program: FC<IProps> = ({ program }) => {
                 </h4>
               )}
               <div className="flex items-center justify-center">
-                <table className="w-full text-center text-white border-collapse border border-dark-green">
+                <table className="w-full text-center text-white border-collapse border border-dark-orange/50">
                   <thead>
                     <tr>
-                      <th className="text-xl p-2 border border-dark-green font-semibold">
+                      <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
                         Hora
                       </th>
-                      <th className="text-xl p-2 border border-dark-green font-semibold">
+                      <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
                         Actividad
                       </th>
                       {programByDay[fecha][tipo].some((a) => a.lugar) && (
-                        <th className="text-xl p-2 border border-dark-green font-semibold">
+                        <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
                           Lugar
                         </th>
                       )}
@@ -56,14 +56,14 @@ const Program: FC<IProps> = ({ program }) => {
                   <tbody>
                     {programByDay[fecha][tipo].map((actividad, k) => (
                       <tr key={k}>
-                        <td className="p-2 text-lg border border-dark-green font-medium">
+                        <td className="p-2 text-lg border border-dark-orange/50 font-medium">
                           {actividad.hora}
                         </td>
-                        <td className="p-2 text-lg border border-dark-green font-medium">
+                        <td className="p-2 text-lg border border-dark-orange/50  font-medium">
                           {actividad.descripcion}
                         </td>
                         {actividad.lugar && (
-                          <td className="p-2 text-lg border border-dark-green font-medium">
+                          <td className="p-2 text-lg border border-dark-orange/50 font-medium">
                             {actividad.lugar}
                           </td>
                         )}

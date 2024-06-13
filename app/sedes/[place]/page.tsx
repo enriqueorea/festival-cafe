@@ -1,6 +1,7 @@
 import { Program } from "@/components";
 import Carousel from "@/components/Carousel";
 import { Heading } from "@/components/UI";
+import VideoCarousel from "@/components/VideoCarousel";
 import { sedes, srcImagesBiblioteca, srcImagesJuarez } from "@/constants";
 import Image from "next/image";
 
@@ -42,7 +43,10 @@ const PlacePage = async ({ params }: IProps) => {
         </div>
       </div>
       {sede.id === "parque_juarez" ? (
-        <Carousel srcImage={srcImagesJuarez} />
+        <>
+          <Carousel srcImage={srcImagesJuarez} />
+          <VideoCarousel />
+        </>
       ) : null}
       {sede.id === "palacio_gobierno" ? (
         <Carousel srcImage={srcImagesBiblioteca} />
