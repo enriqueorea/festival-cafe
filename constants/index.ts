@@ -13,85 +13,85 @@ export const sedes: Sede[] = [
     ],
     program: [
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "12:30 hrs",
         descripcion: "Inauguración",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "13:30 hrs",
         descripcion: "Orquesta Municipal de Xalapa",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "14:30 hrs",
         descripcion: "Dueto con Ricardo y Gema Juárez",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "19:00 hrs",
         descripcion: "Ballet Folklórico UV",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "12:00 hrs",
         descripcion: "Ballet Folklórico Kinich",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "13:30 hrs",
         descripcion: "Grupo Mela´O",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "16:00 hrs",
         descripcion: "Tuna Femenil UV",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "18:00 hrs",
         descripcion: "Orquesta de Salsa UV",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "19:00 hrs",
         descripcion: "Salsacumbiando con Enrique y Rafa",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "20:00 hrs",
         descripcion: "Orquesta de Salsa UV",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "07 de julio",
+        fecha: "Domingo 7 de julio",
         hora: "12:00 hrs",
         descripcion: "Tlen-Huicani",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "07 de julio",
+        fecha: "Domingo 7 de julio",
         hora: "13:00 hrs",
         descripcion: "Evento de Premiación Segundo Festival de Café",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "07 de julio",
+        fecha: "Domingo 7 de julio",
         hora: "17:00 hrs",
         descripcion: "Danzón para el corazón Orquesta Pauta Nueva",
         tipo: "Grupos artísticos",
       },
       {
-        fecha: "07 de julio",
+        fecha: "Domingo 7 de julio",
         hora: "19:00 hrs",
         descripcion: "Tlen Huicani Maderas",
         tipo: "Grupos artísticos",
@@ -135,7 +135,7 @@ export const sedes: Sede[] = [
     ],
     program: [
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "09:30-10:30 hrs",
         descripcion:
           "Chapingo y la formación del agrónomo necesario ante los nuevos escenarios de la agricultura sostenible - M.C. Noé López Martínez (UACH)",
@@ -143,7 +143,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "10:30-11:30 hrs",
         descripcion:
           "Estrategias de transición agroeocológica para el manejo de cafetales - Dr. Atenógenes Licona Vargas (UACH)",
@@ -151,7 +151,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "11:30-12:30 hrs",
         descripcion:
           "Innovaciones tecnológicas en la cadena productiva de café - M.C. José Domingo Robledo Martínez (UACH)",
@@ -159,7 +159,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "12:30-13:30 hrs",
         descripcion:
           "Manejo del cafetal bajo un sistema agroforestal: caso de la comunidad Coapa Pinopa, Mpio. de Zongolica, Ver - M. C. Rolando Misael Tlaxcala Méndez (INIFAP)",
@@ -167,7 +167,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "13:30-14:30 hrs",
         descripcion:
           "Tipología de productores y rentabilidad agrogeográfica en el cultivo de café - Dr. Gabriel Díaz Padilla (INIFAP)",
@@ -175,7 +175,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "15:30-16:30 hrs",
         descripcion:
           "Variedades de café en manejo orgánico - Dr. Francisco Javier López García (UACH)",
@@ -183,7 +183,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "16:30-17:30 hrs",
         descripcion:
           "Caracterización de materiales genéticos en el banco de germoplasma de café - M.C. Rosalío López Morgado (INIFAP)",
@@ -191,7 +191,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "17:30-18:30 hrs",
         descripcion:
           "Estudio cafetalero a nivel nacional sobre la economía de los ecosistemas y la biodiversidad - Dr. Robert H. Manson Instituto de Agroecología A.C.",
@@ -199,7 +199,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "09:30-10:30 hrs",
         descripcion:
           "Laboratorio de café para la contribución al relevo generacional de familias productoras de café, en la zona de Huatusco, Ver. - Mtro. José Menéndez Cruz (UPH)",
@@ -207,7 +207,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "10:30-11:30 hrs",
         descripcion:
           "Potenciar el café de especialidad. Surgimiento y políticas públicas necesarias - Mtra. M. Susana Córdova Santamaría (UACH)",
@@ -215,7 +215,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "11:30-12:30 hrs",
         descripcion:
           "Cafeterías de especialidad en México - Dra. Roselia Servín Juárez (COLPOS)",
@@ -223,7 +223,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "13:30-14:30 hrs",
         descripcion:
           "Prevención y manejo de nemátodos en cafetales - Mtra. Dinorah Lima Rivera y Dr. Daniel López Lima (UV)",
@@ -231,7 +231,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "15:30-16:30 hrs",
         descripcion:
           "Técnicas avanzadas en el mejoramiento genético del café: caso de la resistencia a roya - Dr. Edgar Couttolenc Brenis (INIFAP)",
@@ -239,7 +239,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "16:30-17:30 hrs",
         descripcion:
           "Manejo de la broca del café - Ing. Jorge Jiménez Zilli (ANDREB S.A. de C.V.)",
@@ -247,7 +247,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "17:30-18:30 hrs",
         descripcion:
           "Situación Actual del Barrenador Negro de la Rama del Café y su manejo - Ing. Armando Equihua (COLPOS)",
@@ -255,7 +255,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "09:30-10:30 hrs",
         descripcion:
           "Exportación de café - Mtro. Ramsés Alaín Sánchez Herrera (SEDECOP)",
@@ -263,7 +263,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "10:30-11:30 hrs",
         descripcion:
           "No le tengas miedo al SAT. Beneficios para el Sector Cafetalero - LCP. Tania Arlet Sánchez Vázquez (UPH)",
@@ -271,7 +271,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "11:30-12:30 hrs",
         descripcion:
           "Listos para comercializar - Lic. Adrián Eligio González Santiago (SEDECOP)",
@@ -279,7 +279,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "12:30-13:30 hrs",
         descripcion:
           "Registro de marca - Lic Cristian Solano Padilla (SEDECOP / IMPI)",
@@ -287,7 +287,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "13:30-14:30 hrs",
         descripcion:
           "Hacia una política cafetalera integral en México - M.C. Salvador Díaz Cárdenas e Ing. Lucila Martínez Munguía (UACH)",
@@ -295,7 +295,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "15:30-16:30 hrs",
         descripcion:
           "Avances de la Estrategia de café del programa Sembrando Vida en Veracruz - Dr. Esteban Escamilla Prado (UACH)",
@@ -303,7 +303,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "16:30-17:30 hrs",
         descripcion:
           "Modelos de negocios para el fortalecimiento del cooperativismo cafetalero - Dra. Erika María Gasperín García (UPH)",
@@ -311,7 +311,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "09:30-10:30 hrs",
         descripcion:
           "¿Qué es el microclima en los cafetales? - Dr. Paulo César Parada Molina (UV)",
@@ -319,13 +319,13 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "10:00-14:00 hrs",
         descripcion: "Degustación de café",
         lugar: "Vestíbulo de la Biblioteca Carlos Fuentes",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "10:30-11:30 hrs",
         descripcion:
           "¿Cómo modificamos el microclima en los cafetales? - Dr. Carlos Roberto Cerdán Cabrera (UV)",
@@ -333,7 +333,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "11:30-12:30 hrs",
         descripcion:
           "Comportamiento de variables meteorológicas ante los eventos del ENSO: caso de la zona centro de Veracruz - M.G. Rafael Alberto Guajardo Panes (INIFAP)",
@@ -341,7 +341,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "13:30-14:30 hrs",
         descripcion:
           "Fenología de la floración y maduración del fruto de café - Dr. Marco Antonio Toral Juárez (INIFAP)",
@@ -349,7 +349,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "15:30-16:30 hrs",
         descripcion:
           "Vulnerabilidad y adaptación al cambio climático en la cafeticultura de Veracruz - M.C. Juan Ángel Tinoco Rueda (UACH)",
@@ -357,13 +357,13 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "16:00-18:00 hrs",
         descripcion: "Degustación de café",
         lugar: "Vestíbulo de la Biblioteca Carlos Fuentes",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "16:30-17:30 hrs",
         descripcion:
           "Formulación de biofertilizantes para café - Ing. Osiel Rodríguez Nieto (SANTA JULIA S.A. de C.V.)",
@@ -371,7 +371,7 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "10:00-11:30 hrs",
         descripcion:
           "Fundamentos básicos de barista - Ing. Amalia García Martínez (COLPOS)",
@@ -379,7 +379,7 @@ export const sedes: Sede[] = [
         tipo: "Talleres prácticos",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "11:30-13:00 hrs",
         descripcion:
           "Tostado de Café - Mtro. Luis Alberto Castillo González, Ing. Edgardo Salazar Marcial, Dr. Juan Salazar Ortíz (COLPOS)",
@@ -387,7 +387,7 @@ export const sedes: Sede[] = [
         tipo: "Talleres prácticos",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "13:00-14:30 hrs",
         descripcion:
           "Elaboración de galletas de café - Lic. Hannia Jessica Rodríguez Jiménez y Lic. Blanca Rubí Serrano Vázquez (COLPOS)",
@@ -395,7 +395,7 @@ export const sedes: Sede[] = [
         tipo: "Talleres prácticos",
       },
       {
-        fecha: "05 de julio",
+        fecha: "Viernes 5 de julio",
         hora: "15:30-17:00 hrs",
         descripcion:
           "Evaluación de la calidad del café: conceptos básicos para grandes resultados - Dra. Claudia Lorena Fernández López (UPH)",
@@ -403,7 +403,7 @@ export const sedes: Sede[] = [
         tipo: "Talleres prácticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "10:00-11:30 hrs",
         descripcion:
           "Taller Injertos de café (Ventajas y desventajas frente al cambio climático) - Tec. Alejandro Paz González (UACH)",
@@ -411,7 +411,7 @@ export const sedes: Sede[] = [
         tipo: "Talleres prácticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "11:30-13:00 hrs",
         descripcion:
           "Taller de Catación en verde - M.C. Salvador Díaz Cárdenas, Ing. Lucila Martínez Munguía y Lic. María de los Ángeles Fuentes Gallardo (UACH)",
@@ -419,7 +419,7 @@ export const sedes: Sede[] = [
         tipo: "Talleres prácticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "13:00-14:30 hrs",
         descripcion:
           "Taller Catación de café - M.C. Salvador Díaz Cárdenas, Ing. Lucila Martínez Munguía y Lic. María de los Ángeles Fuentes Gallardo (UACH)",
@@ -427,7 +427,7 @@ export const sedes: Sede[] = [
         tipo: "Talleres prácticos",
       },
       {
-        fecha: "06 de julio",
+        fecha: "Sábado 6 de julio",
         hora: "15:30-16:30 hrs",
         descripcion:
           "Tostado de muestras de café - Mtro. José Menéndez Cruz (UPH)",

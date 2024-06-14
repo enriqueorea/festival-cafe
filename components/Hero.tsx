@@ -71,22 +71,28 @@ export const Hero = () => {
               <DropdownMenuTrigger className="border border-light-brown text-white px-10 py-3 text-3xl font-semibold min-w-[325px] hover:bg-light-brown hover:text-dark-purple transition duration-300 ease-in-out">
                 Cartelera
               </DropdownMenuTrigger>
-              <DropdownMenuContent className="font-bold w-[325px] border-light-brown">
+              <DropdownMenuContent className="font-bold w-[325px] border-light-brown bg-dark-purple">
                 <DropdownMenuItem>
-                  <Link className="w-full" href={"/sedes/parque_juarez"}>
+                  <Link
+                    className="w-full hover:text-light-brown"
+                    href={"/sedes/parque_juarez"}
+                  >
                     Grupos artísticos
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem>
                   <Link
-                    className="w-full"
+                    className="w-full hover:text-light-brown"
                     href={"/sedes/biblioteca_carlos_fuentes"}
                   >
                     Cursos y Talleres
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem>
-                  <Link className="w-full" href={"/sedes/palacio_gobierno"}>
+                  <Link
+                    className="w-full hover:text-light-brown"
+                    href={"/sedes/palacio_gobierno"}
+                  >
                     Stands
                   </Link>
                 </DropdownMenuItem>
