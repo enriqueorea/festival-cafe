@@ -6,14 +6,21 @@ interface IProps {
 }
 
 const Program: FC<IProps> = ({ program }) => {
-  const programByType: { [key: string]: { [key: string]: Actividad[] } } = {};
+  const programByType: {
+    [key: string]: { [key: string]: { [key: string]: Actividad[] } };
+  } = {};
 
   program.forEach((actividad) => {
     const tipo = actividad.tipo || "General";
+    const fecha = actividad.fecha;
+    const lugar = actividad.lugar || "Sin lugar";
+
     if (!programByType[tipo]) programByType[tipo] = {};
-    if (!programByType[tipo][actividad.fecha])
-      programByType[tipo][actividad.fecha] = [];
-    programByType[tipo][actividad.fecha].push(actividad);
+    if (!programByType[tipo][fecha]) programByType[tipo][fecha] = {};
+    if (!programByType[tipo][fecha][lugar])
+      programByType[tipo][fecha][lugar] = [];
+
+    programByType[tipo][fecha][lugar].push(actividad);
   });
 
   if (!program.length) return null;
@@ -36,42 +43,43 @@ const Program: FC<IProps> = ({ program }) => {
               >
                 {fecha}
               </h3>
-              <div className="flex items-center justify-center">
-                <table className="w-full text-center text-white border-collapse border border-dark-orange/50">
-                  <thead>
-                    <tr>
-                      <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
-                        Hora
-                      </th>
-                      <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
-                        Actividad
-                      </th>
-                      {programByType[tipo][fecha].some((a) => a.lugar) && (
-                        <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
-                          Lugar
-                        </th>
-                      )}
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {programByType[tipo][fecha].map((actividad, k) => (
-                      <tr key={k}>
-                        <td className="p-2 text-lg border border-dark-orange/50 font-medium">
-                          {actividad.hora}
-                        </td>
-                        <td className="p-2 text-lg border border-dark-orange/50  font-medium">
-                          {actividad.descripcion}
-                        </td>
-                        {actividad.lugar && (
-                          <td className="p-2 text-lg border border-dark-orange/50 font-medium">
-                            {actividad.lugar}
-                          </td>
+              {Object.keys(programByType[tipo][fecha]).map((lugar, k) => (
+                <div key={lugar} className={`mt-4`}>
+                  {lugar !== "Sin lugar" && (
+                    <h4 className="text-center text-2xl py-2 font-light text-light-brown">
+                      {lugar}
+                    </h4>
+                  )}
+                  <div className="flex items-center justify-center">
+                    <table className="w-full text-center text-white border-collapse border border-dark-orange/50">
+                      <thead>
+                        <tr>
+                          <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
+                            Hora
+                          </th>
+                          <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
+                            Actividad
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {programByType[tipo][fecha][lugar].map(
+                          (actividad, l) => (
+                            <tr key={l}>
+                              <td className="p-2 text-lg border border-dark-orange/50 font-medium">
+                                {actividad.hora}
+                              </td>
+                              <td className="p-2 text-lg border border-dark-orange/50  font-medium">
+                                {actividad.descripcion}
+                              </td>
+                            </tr>
+                          )
                         )}
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              ))}
             </div>
           ))}
         </div>
