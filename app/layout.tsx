@@ -16,14 +16,14 @@ export const metadata: Metadata = {
       "Sumérgete en el fascinante mundo del café en el Festival Café Veracruz. Del 05 al 07 de julio, celebra la riqueza y diversidad del café veracruzano con degustaciones, talleres y eventos culturales en el corazón de Xalapa.",
     type: "website",
     url: "https://festival-cafe.vercel.app/",
-    images: ["/nombre cafe.png"],
+    images: ["/logo-seo.png"],
   },
   twitter: {
     title:
       "Festival Café Veracruz 2024: Descubre los Sabores y Aromas del Café",
     description:
       "Sumérgete en el fascinante mundo del café en el Festival Café Veracruz. Del 05 al 07 de julio, celebra la riqueza y diversidad del café veracruzano con degustaciones, talleres y eventos culturales en el corazón de Xalapa.",
-    images: ["/nombre cafe.png"],
+    images: ["/logo-seo.png"],
   },
 };
 
