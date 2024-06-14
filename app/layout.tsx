@@ -3,6 +3,7 @@ import "./globals.css";
 import Image from "next/image";
 import { Footer } from "@/components";
 import { Metadata } from "next";
+import SoundButton from "@/components/SoundButton";
 
 export const metadata: Metadata = {
   title: "Segundo Festival Café Veracruz 2024",
@@ -53,6 +54,7 @@ export default function RootLayout({
             src="/Asset 2.png"
           />
         </div>
+        {/* <SoundButton /> */}
       </body>
     </html>
   );

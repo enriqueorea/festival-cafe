@@ -304,6 +304,12 @@ export const sedes: Sede[] = [
       },
       {
         fecha: "06 de julio",
+        hora: "10:00-14:00 hrs",
+        descripcion: "Degustación de café",
+        lugar: "Vestíbulo de la Biblioteca Carlos Fuentes",
+      },
+      {
+        fecha: "06 de julio",
         hora: "10:30-11:30 hrs",
         descripcion:
           "¿Cómo modificamos el microclima en los cafetales? - Dr. Carlos Roberto Cerdán Cabrera (UV)",
@@ -333,6 +339,12 @@ export const sedes: Sede[] = [
           "Vulnerabilidad y adaptación al cambio climático en la cafeticultura de Veracruz - M.C. Juan Ángel Tinoco Rueda (UACH)",
         lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
+      },
+      {
+        fecha: "06 de julio",
+        hora: "16:00-18:00 hrs",
+        descripcion: "Degustación de café",
+        lugar: "Vestíbulo de la Biblioteca Carlos Fuentes",
       },
       {
         fecha: "06 de julio",
