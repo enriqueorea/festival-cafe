@@ -281,8 +281,7 @@ export const sedes: Sede[] = [
       {
         fecha: "Viernes 5 de julio",
         hora: "12:30-13:30 hrs",
-        descripcion:
-          "Registro de marca - Lic Cristian Solano Padilla (SEDECOP / IMPI)",
+        descripcion: "Registro de marca - Lic Christian Solano Padilla (IMPI)",
         lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
       },
