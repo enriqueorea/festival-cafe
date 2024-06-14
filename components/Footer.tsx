@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 import { BsFacebook, BsTwitter } from "react-icons/bs";
 
-const Contact = () => {
+export const Footer = () => {
   return (
     <footer className="mt-5 pt-8 mb-10 max-w-[1200px] mx-auto flex flex-col gap-5 border-t-2 border-light-brown ">
       <div className="flex flex-wrap flex-col md:flex-row items-center justify-between">
@@ -65,5 +65,3 @@ const Contact = () => {
     </footer>
   );
 };
-
-export default Contact;

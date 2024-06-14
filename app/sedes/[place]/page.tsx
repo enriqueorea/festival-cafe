@@ -1,7 +1,7 @@
-import { Program } from "@/components";
-import Carousel from "@/components/Carousel";
+import { Program } from "@/components/Program";
+import { Carousel } from "@/components/Carousel";
 import { Heading } from "@/components/UI";
-import VideoCarousel from "@/components/VideoCarousel";
+import { VideoCarousel } from "@/components/VideoCarousel";
 import { sedes, srcImagesBiblioteca, srcImagesJuarez } from "@/constants";
 import Image from "next/image";
 

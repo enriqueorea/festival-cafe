@@ -3,7 +3,7 @@ import { Heading } from "./UI";
 import { sedes } from "@/constants";
 import Link from "next/link";
 
-const Places = () => {
+export const Places = () => {
   return (
     <section id="sedes" className="p-2 mt-10">
       <Heading title="Ven y Vive la Experiencia en Nuestras Sedes" />
@@ -35,5 +35,3 @@ const Places = () => {
     </section>
   );
 };
-
-export default Places;

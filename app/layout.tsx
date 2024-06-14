@@ -1,7 +1,7 @@
 import Header from "@/components/UI/Header";
 import "./globals.css";
 import Image from "next/image";
-import { Footer } from "@/components";
+import { Footer } from "@/components/Footer";
 import { Metadata } from "next";
 import SoundButton from "@/components/SoundButton";
 
@@ -36,7 +36,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-dark-purple relative">
         <Header />
-        <main>{children}</main>
+        <main className="pt-14 max-w-[1200px] mx-auto">{children}</main>
         <Footer />
         <div className="hidden lg:block bg-fixed fixed w-[210px] h-[850px] left-0 bottom-0 scale-125">
           <Image

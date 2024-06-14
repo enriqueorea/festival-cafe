@@ -1,8 +1,17 @@
 import Image from "next/image";
 import React from "react";
 import { Button } from "./UI";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuLabel,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "./UI/dropdown-menu";
+import Link from "next/link";
 
-const Hero = () => {
+export const Hero = () => {
   return (
     <section id="hero" className="relative flex items-center justify-center">
       <div className="min-h-[100dvh] pt-12 sm:pt-24">
@@ -58,14 +67,34 @@ const Hero = () => {
             <a href="#sedes">
               <Button title="Sedes" />
             </a>
-            <a href={"#programa"}>
-              <Button title="Cartelera" />
-            </a>
+            <DropdownMenu>
+              <DropdownMenuTrigger className="border border-light-brown text-white px-10 py-3 text-3xl font-semibold min-w-[325px] hover:bg-light-brown hover:text-dark-purple transition duration-300 ease-in-out">
+                Cartelera
+              </DropdownMenuTrigger>
+              <DropdownMenuContent className="font-bold w-[325px] border-light-brown">
+                <DropdownMenuItem>
+                  <Link className="w-full" href={"/sedes/parque_juarez"}>
+                    Grupos artísticos
+                  </Link>
+                </DropdownMenuItem>
+                <DropdownMenuItem>
+                  <Link
+                    className="w-full"
+                    href={"/sedes/biblioteca_carlos_fuentes"}
+                  >
+                    Cursos y Talleres
+                  </Link>
+                </DropdownMenuItem>
+                <DropdownMenuItem>
+                  <Link className="w-full" href={"/sedes/palacio_gobierno"}>
+                    Stands
+                  </Link>
+                </DropdownMenuItem>
+              </DropdownMenuContent>
+            </DropdownMenu>
           </div>
         </div>
       </div>
     </section>
   );
 };
-
-export default Hero;

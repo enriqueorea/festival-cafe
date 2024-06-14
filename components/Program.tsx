@@ -5,7 +5,7 @@ interface IProps {
   program: Actividad[];
 }
 
-const Program: FC<IProps> = ({ program }) => {
+export const Program: FC<IProps> = ({ program }) => {
   const programByType: {
     [key: string]: { [key: string]: { [key: string]: Actividad[] } };
   } = {};
@@ -87,5 +87,3 @@ const Program: FC<IProps> = ({ program }) => {
     </div>
   );
 };
-
-export default Program;

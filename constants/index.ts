@@ -160,6 +160,14 @@ export const sedes: Sede[] = [
       },
       {
         fecha: "05 de julio",
+        hora: "12:30-13:30 hrs",
+        descripcion:
+          "Manejo del cafetal bajo un sistema agroforestal: caso de la comunidad Coapa Pinopa, Mpio. de Zongolica, Ver - M. C. Rolando Misael Tlaxcala Méndez (INIFAP)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "05 de julio",
         hora: "13:30-14:30 hrs",
         descripcion:
           "Tipología de productores y rentabilidad agrogeográfica en el cultivo de café - Dr. Gabriel Díaz Padilla (INIFAP)",
@@ -267,6 +275,14 @@ export const sedes: Sede[] = [
         hora: "11:30-12:30 hrs",
         descripcion:
           "Listos para comercializar - Lic. Adrián Eligio González Santiago (SEDECOP)",
+        lugar: "Salón de Usos Múltiples",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "05 de julio",
+        hora: "12:30-13:30 hrs",
+        descripcion:
+          "Registro de marca - Lic Cristian Solano Padilla (SEDECOP / IMPI)",
         lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
       },
@@ -441,11 +457,11 @@ export const srcImagesBiblioteca = [
   "/stands2.jpeg",
   "/stands3.jpeg",
   "/stands4.jpeg",
-  "/stands5.jpg",
-  "/stands6.jpg",
-  "/stands7.jpg",
-  "/stands8.jpg",
-  "/stands9.jpg",
+  "/stands5.JPG",
+  "/stands6.JPG",
+  "/stands7.JPG",
+  "/stands8.JPG",
+  "/stands9.JPG",
 ];
 
 export const srcVideo = [

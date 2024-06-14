@@ -33,5 +33,3 @@ export const Carousel = ({ srcImage }: { srcImage: string[] }) => {
     </div>
   );
 };
-
-export default Carousel;

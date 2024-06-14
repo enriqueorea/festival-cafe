@@ -2,7 +2,7 @@ import React from "react";
 import { Heading } from "./UI";
 import Image from "next/image";
 
-const About = () => {
+export const About = () => {
   return (
     <section id="about" className="text-center mt-10 p-2">
       <Heading title="¡Desentierra la magia del café!" />
@@ -48,5 +48,3 @@ const About = () => {
     </section>
   );
 };
-
-export default About;

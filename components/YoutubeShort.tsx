@@ -1,4 +1,4 @@
-const YouTubeShort = ({ videoSrc }: { videoSrc: string }) => {
+export const YouTubeShort = ({ videoSrc }: { videoSrc: string }) => {
   return (
     <div className="relative pb-[56.25%] h-0 overflow-hidden max-w-full">
       <iframe
