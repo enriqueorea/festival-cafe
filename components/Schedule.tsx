@@ -13,7 +13,10 @@ export const Schedule = () => {
               {name}
             </h2>
           </div>
-          <Program program={program} />
+          <Program
+            showBanner={id === "biblioteca_carlos_fuentes"}
+            program={program}
+          />
         </div>
       ))}
     </section>

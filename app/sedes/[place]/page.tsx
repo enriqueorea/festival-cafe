@@ -39,7 +39,10 @@ const PlacePage = async ({ params }: IProps) => {
       <div className="my-12">
         <Heading title="Programa" />
         <div>
-          <Program program={sede.program} />
+          <Program
+            showBanner={sede.id === "biblioteca_carlos_fuentes"}
+            program={sede.program}
+          />
         </div>
       </div>
       {sede.id === "parque_juarez" ? (
