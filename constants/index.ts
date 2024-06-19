@@ -219,7 +219,7 @@ export const sedes: Sede[] = [
         hora: "11:30-12:30 hrs",
         descripcion:
           "Cafeterías de especialidad en México - Dra. Roselia Servín Juárez (COLPOS)",
-        lugar: "Auditorio",
+        lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
       },
       {
@@ -227,7 +227,7 @@ export const sedes: Sede[] = [
         hora: "12:30-13:30 hrs",
         descripcion:
           "Plaguicida natural con compuestos bioactivos en cultivos de café en la región de Huatusco, Veracruz - Dr. Ricardo García Barojas (UPH)",
-        lugar: "Salón de Usos Múltiples",
+        lugar: "Auditorio",
         tipo: "Capacitación",
       },
       {
@@ -333,13 +333,7 @@ export const sedes: Sede[] = [
         lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
       },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "10:00-14:00 hrs",
-        descripcion: "Degustación de café",
-        lugar: "Vestíbulo de la Biblioteca Carlos Fuentes",
-        tipo: "Degustación de café",
-      },
+
       {
         fecha: "Sábado 6 de julio",
         hora: "10:30-11:30 hrs",
@@ -371,13 +365,6 @@ export const sedes: Sede[] = [
           "Vulnerabilidad y adaptación al cambio climático en la cafeticultura de Veracruz - M.C. Juan Ángel Tinoco Rueda (UACH)",
         lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
-      },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "16:00-18:00 hrs",
-        descripcion: "Degustación de café",
-        lugar: "Vestíbulo de la Biblioteca Carlos Fuentes",
-        tipo: "Degustación de café",
       },
       {
         fecha: "Sábado 6 de julio",

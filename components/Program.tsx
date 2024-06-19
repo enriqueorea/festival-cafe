@@ -84,6 +84,53 @@ export const Program: FC<IProps> = ({ program }) => {
           ))}
         </div>
       ))}
+      <div>
+        <h4 className="text-center text-4xl py-4 font-light text-light-brown">
+          Degustación de café
+        </h4>
+        <div className="mt-4">
+          <h3 className="text-center mb-2 text-yellow font-semibold ">
+            Sábado 6 de julio
+          </h3>
+          <div className="mt-4">
+            <h4 className="text-center text-2xl py-2 font-light text-light-brown">
+              Vestíbulo de la Biblioteca Carlos Fuentes
+            </h4>
+            <div className="flex items-center justify-center">
+              <table className="w-full text-center text-white border-collapse border border-dark-orange/50">
+                <thead>
+                  <tr>
+                    <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
+                      Hora
+                    </th>
+                    <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
+                      Actividad
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td className="p-2 text-lg border border-dark-orange/50 font-medium">
+                      10:00-14:00 hrs
+                    </td>
+                    <td className="p-2 text-lg border border-dark-orange/50  font-medium">
+                      Degustación de café
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="p-2 text-lg border border-dark-orange/50 font-medium">
+                      16:00-18:00 hrs
+                    </td>
+                    <td className="p-2 text-lg border border-dark-orange/50  font-medium">
+                      Degustación de café
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
