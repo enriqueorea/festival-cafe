@@ -146,7 +146,7 @@ export const sedes: Sede[] = [
         fecha: "Viernes 5 de julio",
         hora: "10:30-11:30 hrs",
         descripcion:
-          "Estrategias de transición agroeocológica para el manejo de cafetales - Dr. Atenógenes Licona Vargas (UACH)",
+          "Estrategias de transición agroecológica para el manejo de cafetales - Dr. Atenógenes Licona Vargas (UACH)",
         lugar: "Auditorio",
         tipo: "Capacitación",
       },
@@ -219,6 +219,22 @@ export const sedes: Sede[] = [
         hora: "11:30-12:30 hrs",
         descripcion:
           "Cafeterías de especialidad en México - Dra. Roselia Servín Juárez (COLPOS)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "12:30-13:30 hrs",
+        descripcion:
+          "Plaguicida natural con compuestos bioactivos en cultivos de café en la región de Huatusco, Veracruz - Dr. Ricardo García Barojas (UPH)",
+        lugar: "Salón de Usos Múltiples",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "12:30-13:30 hrs",
+        descripcion:
+          "Efecto del nivel de sombra en la productividad y calidad del café - Dr Victorino Morales Ramos (COLPOS)",
         lugar: "Auditorio",
         tipo: "Capacitación",
       },
@@ -322,6 +338,7 @@ export const sedes: Sede[] = [
         hora: "10:00-14:00 hrs",
         descripcion: "Degustación de café",
         lugar: "Vestíbulo de la Biblioteca Carlos Fuentes",
+        tipo: "Degustación de café",
       },
       {
         fecha: "Sábado 6 de julio",
@@ -360,6 +377,7 @@ export const sedes: Sede[] = [
         hora: "16:00-18:00 hrs",
         descripcion: "Degustación de café",
         lugar: "Vestíbulo de la Biblioteca Carlos Fuentes",
+        tipo: "Degustación de café",
       },
       {
         fecha: "Sábado 6 de julio",
