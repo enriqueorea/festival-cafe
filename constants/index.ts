@@ -219,7 +219,7 @@ export const sedes: Sede[] = [
         hora: "11:30-12:30 hrs",
         descripcion:
           "Cafeterías de especialidad en México - Dra. Roselia Servín Juárez (COLPOS)",
-        lugar: "Salón de Usos Múltiples",
+        lugar: "Auditorio",
         tipo: "Capacitación",
       },
       {
@@ -230,14 +230,7 @@ export const sedes: Sede[] = [
         lugar: "Auditorio",
         tipo: "Capacitación",
       },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "12:30-13:30 hrs",
-        descripcion:
-          "Efecto del nivel de sombra en la productividad y calidad del café - Dr Victorino Morales Ramos (COLPOS)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
+
       {
         fecha: "Sábado 6 de julio",
         hora: "13:30-14:30 hrs",
@@ -347,6 +340,14 @@ export const sedes: Sede[] = [
         hora: "11:30-12:30 hrs",
         descripcion:
           "Comportamiento de variables meteorológicas ante los eventos del ENSO: caso de la zona centro de Veracruz - M.G. Rafael Alberto Guajardo Panes (INIFAP)",
+        lugar: "Salón de Usos Múltiples",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "12:30-13:30 hrs",
+        descripcion:
+          "Efecto del nivel de sombra en la productividad y calidad del café - Dr Victorino Morales Ramos (COLPOS)",
         lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
       },
