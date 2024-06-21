@@ -194,7 +194,7 @@ export const sedes: Sede[] = [
         fecha: "Viernes 5 de julio",
         hora: "17:30-18:30 hrs",
         descripcion:
-          "Estudio cafetalero a nivel nacional sobre la economía de los ecosistemas y la biodiversidad - Dr. Robert H. Manson Instituto de Agroecología A.C.",
+          "Estudio cafetalero a nivel nacional sobre la economía de los ecosistemas y la biodiversidad - Dr. Robert H. Manson (Instituto de Agroecología A.C.)",
         lugar: "Auditorio",
         tipo: "Capacitación",
       },
@@ -347,7 +347,7 @@ export const sedes: Sede[] = [
         fecha: "Sábado 6 de julio",
         hora: "12:30-13:30 hrs",
         descripcion:
-          "Efecto del nivel de sombra en la productividad y calidad del café - Dr Victorino Morales Ramos (COLPOS)",
+          "Efecto del nivel de sombra en la productividad y calidad del café - Dr. Victorino Morales Ramos (COLPOS)",
         lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
       },
