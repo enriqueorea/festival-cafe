@@ -10,43 +10,49 @@ export const Footer = () => {
         <div className="flex flex-col flex-wrap md:flex-row items-center gap-4">
           <Image
             src={"/logos cafe-02.png"}
-            width={150}
+            width={130}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-03.png"}
-            width={150}
+            width={130}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-04.png"}
-            width={150}
+            width={130}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-05.png"}
-            width={150}
+            width={130}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-06.png"}
-            width={150}
+            width={130}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-07.png"}
-            width={150}
+            width={130}
             height={100}
             alt="logo"
           />
           <Image
             src={"/logos cafe-08.png"}
-            width={150}
+            width={130}
+            height={100}
+            alt="logo"
+          />
+          <Image
+            src={"/logos cafe-09.png"}
+            width={130}
             height={100}
             alt="logo"
           />
