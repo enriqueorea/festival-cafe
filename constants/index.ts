@@ -199,263 +199,6 @@ export const sedes: Sede[] = [
         tipo: "Capacitación",
       },
       {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Plaguicida natural con compuestos bioactivos en cultivos de café en la región de Huatusco, Veracruz - M.C. Ricardo García Barojas (Universidad Politécnica de Huatusco)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Banco Nacional de Variedades de Café en México del CRUO-UACH. - Dr. Esteban Escamilla Prado, T.A Alejandro Paz Gonzales (Universidad Autónoma de Chapingo)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "El futuro de las cooperativas cafetaleras en México: La perspectiva de los representantes en la región Córdoba Huatusco, Veracruz - Dra. Roselia Servín Juárez (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Competitividad de productores de café de la región centro de Veracruz - Lic. Hannia Jessica Rodríguez Jiménez (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Agroturismo en cafetales en Córdoba, Veracruz - Lic. Blanca Rubí Serrano Vázquez (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "El Agroecosistema café en México: Hacia un enfoque de Agricultura Climáticamente Inteligente - M.C. José Domingo Robledo Martínez (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Fermentación y calidad del café - Ing. Misael Velázquez Pulido (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Tostado de bajas emisiones de GEI - M.C. Marisol Lima Solano (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Modelos de negocios en la región de Zongolica, Veracruz - Ing. Macuilxochitl Mayahua Cotlame (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "El rol del barista en cafeterías de especialidad en Veracruz - Ing. Amalia García Martínez (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Evaluación del desempeño de la cadena de suministros agroalimentaria del café en la región de Córdoba, Ver. - Ing. Luis Enrique López González (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Biofermentador anaeróbico de café acoplado a sistema de monitoreo de temperatura, PH y CO2 basado en la nube IoT - Dr. Juan Salazar Ortiz (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Fermentación en granos de café (Coffea arábica L.) y su efecto sobre la calidad en taza - M.C. María Dreidi Bocarando Guzmán (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Sendero interpretativo en un cafetal en Xalapa, Veracruz - Lic. Alma Lilia Rodríguez Lozano (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Bonos de carbono como alternativa sostenible para los productores de café del ejido Xonotxintla, Chocaman Veracruz - Ing. Gisell Barojas Durán (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Bioeconomía del café en Veracruz - Ing. (c). Santos Bernabé Inés (Colegio de Postgraduados)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Fenómenos hidrometeorológicos y cafeticultura en el estado de Veracruz - Dra. Ofelia Andrea Valdés Rodríguez; Dra. Lorena Patricia Sánchez Morales (Colegio de Veracruz)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Proceso de beneficiado de café para mejorar calidad de taza - Dra. Ofelia Andrea Valdés Rodríguez; Dr. Antonio Arrechea Villacampa (Colegio de Veracruz)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Producción de Maíz Nativo en un sistema agroforestal café en un clima tropical de México - Dr. Gregorio Hernández Salinas, Dr. Emmanuel de Jesús Ramírez Rivera; Dr. Jorge Armida Lozano; Dra. Susana Isabel Castillo Martínez; Dra. Cristal Araní Guerrero Ortiz; Dr. Ismael Quiroz Guerrero (Instituto Tecnológico Superior de Zongolica)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Hallazgos de la estimación de costos y beneficios del Agroecosistema café de la Sierra de Zongolica, Ver. - Dr. Hilario García Martínez, Dr. Rogelio Limón Rivera; Dra. Susana Isabel Castillo Martínez; Dr. Julio Díaz José (Instituto Tecnológico Superior de Zongolica)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "El Centro Nacional de Investigación, Innovación y Desarrollo Tecnológico del Café (CENACAFE) - M.C. José Domingo Robledo Martínez (Universidad Autónoma Chapingo)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "CRUO-CENACAFE: 45 años haciendo investigación y servicio en la cafeticultura - M.C. Juan Ángel Tinoco Rueda (Universidad Autónoma Chapingo)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Cafeticultura del Siglo XIX en México - Dra. Susana Córdova Santamaría (Universidad Autónoma Chapingo)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "05 de julio",
-        hora: "",
-        descripcion:
-          "Desarrollo y puesta en marcha de un Laboratorio de café para la contribución al relevo generacional de familias productoras de café, en la zona de Huatusco, Ver. - Mtro. José Menéndez Cruz (Universidad Politécnica de Huatusco)",
-        lugar: "Patio central de la Biblioteca Carlos Fuentes",
-        tipo: "Exposición de Carteles",
-      },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "09:30-10:30 hrs",
-        descripcion:
-          "Laboratorio de café para la contribución al relevo generacional de familias productoras de café, en la zona de Huatusco, Ver. - Mtro. José Menéndez Cruz (UPH)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "10:30-11:30 hrs",
-        descripcion:
-          "Potenciar el café de especialidad. Surgimiento y políticas públicas necesarias - Mtra. M. Susana Córdova Santamaría (UACH)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "11:30-12:30 hrs",
-        descripcion:
-          "Cafeterías de especialidad en México - Dra. Roselia Servín Juárez (COLPOS)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "12:30-13:30 hrs",
-        descripcion:
-          "Plaguicida natural con compuestos bioactivos en cultivos de café en la región de Huatusco, Veracruz - Dr. Ricardo García Barojas (UPH)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
-
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "13:30-14:30 hrs",
-        descripcion:
-          "Prevención y manejo de nemátodos en cafetales - Mtra. Dinorah Lima Rivera y Dr. Daniel López Lima (UV)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "15:30-16:30 hrs",
-        descripcion:
-          "Técnicas avanzadas en el mejoramiento genético del café: caso de la resistencia a roya - Dr. Edgar Couttolenc Brenis (INIFAP)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "16:30-17:30 hrs",
-        descripcion:
-          "Manejo de la broca del café - Ing. Jorge Jiménez Zilli (ANDREB S.A. de C.V.)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
-      {
-        fecha: "Sábado 6 de julio",
-        hora: "17:30-18:30 hrs",
-        descripcion:
-          "Situación Actual del Barrenador Negro de la Rama del Café y su manejo - Ing. Armando Equihua (COLPOS)",
-        lugar: "Auditorio",
-        tipo: "Capacitación",
-      },
-      {
         fecha: "Viernes 5 de julio",
         hora: "09:30-10:30 hrs",
         descripcion:
@@ -514,11 +257,74 @@ export const sedes: Sede[] = [
         fecha: "Sábado 6 de julio",
         hora: "09:30-10:30 hrs",
         descripcion:
+          "Laboratorio de café para la contribución al relevo generacional de familias productoras de café, en la zona de Huatusco, Ver. - Mtro. José Menéndez Cruz (UPH)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "10:30-11:30 hrs",
+        descripcion:
+          "Potenciar el café de especialidad. Surgimiento y políticas públicas necesarias - Mtra. M. Susana Córdova Santamaría (UACH)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "11:30-12:30 hrs",
+        descripcion:
+          "Cafeterías de especialidad en México - Dra. Roselia Servín Juárez (COLPOS)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "12:30-13:30 hrs",
+        descripcion:
+          "Plaguicida natural con compuestos bioactivos en cultivos de café en la región de Huatusco, Veracruz - Dr. Ricardo García Barojas (UPH)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "13:30-14:30 hrs",
+        descripcion:
+          "Prevención y manejo de nemátodos en cafetales - Mtra. Dinorah Lima Rivera y Dr. Daniel López Lima (UV)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "15:30-16:30 hrs",
+        descripcion:
+          "Técnicas avanzadas en el mejoramiento genético del café: caso de la resistencia a roya - Dr. Edgar Couttolenc Brenis (INIFAP)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "16:30-17:30 hrs",
+        descripcion:
+          "Manejo de la broca del café - Ing. Jorge Jiménez Zilli (ANDREB S.A. de C.V.)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "17:30-18:30 hrs",
+        descripcion:
+          "Situación Actual del Barrenador Negro de la Rama del Café y su manejo - Ing. Armando Equihua (COLPOS)",
+        lugar: "Auditorio",
+        tipo: "Capacitación",
+      },
+      {
+        fecha: "Sábado 6 de julio",
+        hora: "09:30-10:30 hrs",
+        descripcion:
           "¿Qué es el microclima en los cafetales? - Dr. Paulo César Parada Molina (UV)",
         lugar: "Salón de Usos Múltiples",
         tipo: "Capacitación",
       },
-
       {
         fecha: "Sábado 6 de julio",
         hora: "10:30-11:30 hrs",
@@ -630,6 +436,198 @@ export const sedes: Sede[] = [
           "Tostado de muestras de café - Mtro. José Menéndez Cruz (UPH)",
         lugar: "3er piso, Biblioteca",
         tipo: "Talleres prácticos",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Plaguicida natural con compuestos bioactivos en cultivos de café en la región de Huatusco, Veracruz - M.C. Ricardo García Barojas (Universidad Politécnica de Huatusco)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Banco Nacional de Variedades de Café en México del CRUO-UACH. - Dr. Esteban Escamilla Prado, T.A Alejandro Paz Gonzales (Universidad Autónoma de Chapingo)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "El futuro de las cooperativas cafetaleras en México: La perspectiva de los representantes en la región Córdoba Huatusco, Veracruz - Dra. Roselia Servín Juárez (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Competitividad de productores de café de la región centro de Veracruz - Lic. Hannia Jessica Rodríguez Jiménez (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Agroturismo en cafetales en Córdoba, Veracruz - Lic. Blanca Rubí Serrano Vázquez (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "El Agroecosistema café en México: Hacia un enfoque de Agricultura Climáticamente Inteligente - M.C. José Domingo Robledo Martínez (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Fermentación y calidad del café - Ing. Misael Velázquez Pulido (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Tostado de bajas emisiones de GEI - M.C. Marisol Lima Solano (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Modelos de negocios en la región de Zongolica, Veracruz - Ing. Macuilxochitl Mayahua Cotlame (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "El rol del barista en cafeterías de especialidad en Veracruz - Ing. Amalia García Martínez (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Evaluación del desempeño de la cadena de suministros agroalimentaria del café en la región de Córdoba, Ver. - Ing. Luis Enrique López González (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Biofermentador anaeróbico de café acoplado a sistema de monitoreo de temperatura, PH y CO2 basado en la nube IoT - Dr. Juan Salazar Ortiz (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Fermentación en granos de café (Coffea arábica L.) y su efecto sobre la calidad en taza - M.C. María Dreidi Bocarando Guzmán (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Sendero interpretativo en un cafetal en Xalapa, Veracruz - Lic. Alma Lilia Rodríguez Lozano (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Bonos de carbono como alternativa sostenible para los productores de café del ejido Xonotxintla, Chocaman Veracruz - Ing. Gisell Barojas Durán (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Bioeconomía del café en Veracruz - Ing. (c). Santos Bernabé Inés (Colegio de Postgraduados)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Fenómenos hidrometeorológicos y cafeticultura en el estado de Veracruz - Dra. Ofelia Andrea Valdés Rodríguez; Dra. Lorena Patricia Sánchez Morales (Colegio de Veracruz)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Proceso de beneficiado de café para mejorar calidad de taza - Dra. Ofelia Andrea Valdés Rodríguez; Dr. Antonio Arrechea Villacampa (Colegio de Veracruz)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Producción de Maíz Nativo en un sistema agroforestal café en un clima tropical de México - Dr. Gregorio Hernández Salinas, Dr. Emmanuel de Jesús Ramírez Rivera; Dr. Jorge Armida Lozano; Dra. Susana Isabel Castillo Martínez; Dra. Cristal Araní Guerrero Ortiz; Dr. Ismael Quiroz Guerrero (Instituto Tecnológico Superior de Zongolica)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Hallazgos de la estimación de costos y beneficios del Agroecosistema café de la Sierra de Zongolica, Ver. - Dr. Hilario García Martínez, Dr. Rogelio Limón Rivera; Dra. Susana Isabel Castillo Martínez; Dr. Julio Díaz José (Instituto Tecnológico Superior de Zongolica)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "El Centro Nacional de Investigación, Innovación y Desarrollo Tecnológico del Café (CENACAFE) - M.C. José Domingo Robledo Martínez (Universidad Autónoma Chapingo)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "CRUO-CENACAFE: 45 años haciendo investigación y servicio en la cafeticultura - M.C. Juan Ángel Tinoco Rueda (Universidad Autónoma Chapingo)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Cafeticultura del Siglo XIX en México - Dra. Susana Córdova Santamaría (Universidad Autónoma Chapingo)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
+      },
+      {
+        fecha: "Viernes 5 de julio",
+        hora: "",
+        descripcion:
+          "Desarrollo y puesta en marcha de un Laboratorio de café para la contribución al relevo generacional de familias productoras de café, en la zona de Huatusco, Ver. - Mtro. José Menéndez Cruz (Universidad Politécnica de Huatusco)",
+        lugar: "Patio central de la Biblioteca Carlos Fuentes",
+        tipo: "Exposición de Carteles",
       },
     ],
   },
