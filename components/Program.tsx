@@ -55,9 +55,13 @@ export const Program: FC<IProps> = ({ program, showBanner }) => {
                     <table className="w-full text-center text-white border-collapse border border-dark-orange/50">
                       <thead>
                         <tr>
-                          <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
-                            Hora
-                          </th>
+                          {programByType[tipo][fecha][lugar].some(
+                            (a) => a.hora
+                          ) && (
+                            <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
+                              Hora
+                            </th>
+                          )}
                           <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
                             Actividad
                           </th>
@@ -67,10 +71,12 @@ export const Program: FC<IProps> = ({ program, showBanner }) => {
                         {programByType[tipo][fecha][lugar].map(
                           (actividad, l) => (
                             <tr key={l}>
+                              {actividad.hora && (
+                                <td className="p-2 text-lg border border-dark-orange/50 font-medium">
+                                  {actividad.hora}
+                                </td>
+                              )}
                               <td className="p-2 text-lg border border-dark-orange/50 font-medium">
-                                {actividad.hora}
-                              </td>
-                              <td className="p-2 text-lg border border-dark-orange/50  font-medium">
                                 {actividad.descripcion}
                               </td>
                             </tr>
@@ -91,7 +97,7 @@ export const Program: FC<IProps> = ({ program, showBanner }) => {
             Degustación de café
           </h4>
           <div className="mt-4">
-            <h3 className="text-center mb-2 text-yellow font-semibold ">
+            <h3 className="text-center mb-2 text-yellow font-semibold">
               Sábado 6 de julio
             </h3>
             <div className="mt-4">
@@ -115,7 +121,7 @@ export const Program: FC<IProps> = ({ program, showBanner }) => {
                       <td className="p-2 text-lg border border-dark-orange/50 font-medium">
                         10:00-14:00 hrs
                       </td>
-                      <td className="p-2 text-lg border border-dark-orange/50  font-medium">
+                      <td className="p-2 text-lg border border-dark-orange/50 font-medium">
                         Degustación de café
                       </td>
                     </tr>
@@ -123,7 +129,7 @@ export const Program: FC<IProps> = ({ program, showBanner }) => {
                       <td className="p-2 text-lg border border-dark-orange/50 font-medium">
                         16:00-18:00 hrs
                       </td>
-                      <td className="p-2 text-lg border border-dark-orange/50  font-medium">
+                      <td className="p-2 text-lg border border-dark-orange/50 font-medium">
                         Degustación de café
                       </td>
                     </tr>

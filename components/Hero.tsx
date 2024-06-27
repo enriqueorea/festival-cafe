@@ -85,7 +85,7 @@ export const Hero = () => {
                     className="w-full hover:text-light-brown"
                     href={"/sedes/biblioteca_carlos_fuentes"}
                   >
-                    Cursos y Talleres
+                    Cursos, Talleres y Exposición de Carteles
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem>
