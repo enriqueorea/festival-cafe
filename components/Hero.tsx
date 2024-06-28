@@ -29,16 +29,14 @@ export const Hero = () => {
             /> */}
             <div
               className='relative h-0 overflow-hidden my-8'
-              style={{
-                paddingTop: '56.25%',
-              }}
+              style={{ paddingTop: '56.25%' }}
             >
               <iframe
                 className='absolute top-0 left-0 w-full h-full'
-                src='https://www.youtube.com/embed/PZwfkR7yHKY?si=kzvtHmiOfswUocq7?autoplay=1
-                '
-                title='Festival del Cáfe 2024'
-                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+                src='https://www.youtube.com/embed/PZwfkR7yHKY?autoplay=1'
+                title='Festival del Café 2024'
+                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
+                allowFullScreen
               ></iframe>
             </div>
 
