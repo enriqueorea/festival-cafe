@@ -20,25 +20,13 @@ export const Hero = () => {
             DEL 5 AL 7 DE JULIO
           </h1>
           <div className='flex flex-col'>
-            {/* <Image
-              alt="Festival logo"
+            <Image
+              alt='Festival logo'
               width={750}
               height={300}
-              className="object-contain w-full h-auto relative"
-              src="/logo2.png"
-            /> */}
-            <div
-              className='relative h-0 overflow-hidden my-8'
-              style={{ paddingTop: '56.25%' }}
-            >
-              <iframe
-                className='absolute top-0 left-0 w-full h-full'
-                src='https://www.youtube.com/embed/PZwfkR7yHKY?autoplay=1'
-                title='Festival del Café 2024'
-                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                allowFullScreen
-              ></iframe>
-            </div>
+              className='object-contain w-full h-auto relative'
+              src='/logo2.png'
+            />
 
             <div className='py-4 flex items-center'>
               <div className='flex-1 border-b-2 border-white mx-3'></div>

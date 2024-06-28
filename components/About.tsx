@@ -1,22 +1,26 @@
-import React from "react";
-import { Heading } from "./UI";
-import Image from "next/image";
+import React from 'react';
+import { Heading } from './UI';
+import Image from 'next/image';
 
 export const About = () => {
   return (
-    <section id="about" className="text-center mt-10 p-2">
-      <Heading title="¡Desentierra la magia del café!" />
-      <div className="mt-10">
-        <div className="flex-1 h-[550px] drop-shadow-xl">
-          <Image
-            alt="about image"
-            className="object-cover w-full h-full"
-            width={1920}
-            height={1080}
-            src={"/about2.jpeg"}
-          />
+    <section id='about' className='text-center mt-10 p-2'>
+      <Heading title='¡Desentierra la magia del café!' />
+      <div className='mt-10'>
+        <div
+          className='relative h-0 overflow-hidden my-8'
+          style={{ paddingTop: '56.25%' }}
+        >
+          <iframe
+            className='absolute top-0 left-0 w-full h-full'
+            src='https://www.youtube.com/embed/PZwfkR7yHKY?autoplay=1'
+            title='Festival del Café 2024'
+            allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
+            allowFullScreen
+          ></iframe>
         </div>
-        <div className="flex-1 mt-4">
+
+        <div className='flex-1'>
           <p>
             ¡Sumérgete en el fascinante mundo de aromas intensos y sabores
             audaces en el Festival Café Veracruz! Prepárate para lo inesperado y
