@@ -80,6 +80,12 @@ export const sedes: Sede[] = [
       },
       {
         fecha: "Domingo 7 de julio",
+        hora: "11:00 hrs",
+        descripcion: "Domingo Familiares: Show Payasitos, Lotería Cultural y Mercado de Hojas, Chispita Show conformado por Tribilín, Pelucho y Chispita.",
+        tipo: "Grupos artísticos",
+      },
+      {
+        fecha: "Domingo 7 de julio",
         hora: "13:00 hrs",
         descripcion: "Evento de Premiación Segundo Festival de Café",
         tipo: "Grupos artísticos",
