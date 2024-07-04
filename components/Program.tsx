@@ -4,9 +4,10 @@ import React, { FC } from "react";
 interface IProps {
   program: Actividad[];
   showBanner: boolean;
+  showActivity: boolean;
 }
 
-export const Program: FC<IProps> = ({ program, showBanner }) => {
+export const Program: FC<IProps> = ({ program, showBanner, showActivity }) => {
   const programByDate: { [key: string]: { [key: string]: Actividad[] } } = {};
 
   program.forEach((actividad) => {
@@ -113,6 +114,48 @@ export const Program: FC<IProps> = ({ program, showBanner }) => {
                       </td>
                       <td className="p-2 text-lg border border-dark-orange/50 font-medium">
                         Degustación de café
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      {showActivity && (
+        <div>
+          <h4 className="text-center text-4xl py-4 font-light text-light-brown">
+            Recorrido en fincas
+          </h4>
+          <div className="mt-4">
+            <h3 className="text-center mb-2 text-yellow font-semibold">
+              Domingo 7 de julio
+            </h3>
+            <div className="mt-4">
+              <h4 className="text-center text-2xl py-2 font-light text-light-brown">
+                Región Coatepec.
+              </h4>
+              <div className="flex items-center justify-center">
+                <table className="w-full text-center text-white border-collapse border border-dark-orange/50">
+                  <thead>
+                    <tr>
+                      <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
+                        Hora
+                      </th>
+                      <th className="text-xl p-2 border border-dark-orange/50 font-semibold">
+                        Actividad
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td className="p-2 text-lg border border-dark-orange/50 font-medium">
+                        11:00 hrs
+                      </td>
+                      <td className="p-2 text-lg border border-dark-orange/50 font-medium">
+                        Rutas turísticas a fincas (Informes en el módulo de
+                        atención ubicado en parque Juárez).
                       </td>
                     </tr>
                   </tbody>

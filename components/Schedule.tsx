@@ -15,6 +15,7 @@ export const Schedule = () => {
           </div>
           <Program
             showBanner={id === "biblioteca_carlos_fuentes"}
+            showActivity={id === "parque_juarez"}
             program={program}
           />
         </div>

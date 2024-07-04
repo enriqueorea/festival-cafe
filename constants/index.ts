@@ -72,13 +72,13 @@ export const sedes: Sede[] = [
         descripcion: "Orquesta de Salsa UV",
         tipo: "Grupos artísticos",
       },
-      {
-        fecha: "Domingo 7 de julio",
-        hora: "11:00 hrs",
-        descripcion:
-          "Rutas turísticas a fincas Región Coatepec. (⁠Informes en el módulo de atención ubicado en parque Juárez).",
-        tipo: "Recorrido en fincas",
-      },
+      // {
+      //   fecha: "Domingo 7 de julio",
+      //   hora: "11:00 hrs",
+      //   descripcion:
+      //     "Rutas turísticas a fincas Región Coatepec. (Informes en el módulo de atención ubicado en parque Juárez).",
+      //   tipo: "Recorrido en fincas",
+      // },
       {
         fecha: "Domingo 7 de julio",
         hora: "11:00 hrs",
