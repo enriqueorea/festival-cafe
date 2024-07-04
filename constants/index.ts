@@ -74,14 +74,22 @@ export const sedes: Sede[] = [
       },
       {
         fecha: "Domingo 7 de julio",
-        hora: "12:00 hrs",
-        descripcion: "Tlen-Huicani",
-        tipo: "Grupos artísticos",
+        hora: "11:00 hrs",
+        descripcion:
+          "Rutas turísticas a fincas Región Coatepec. (⁠Informes en el módulo de atención ubicado en parque Juárez).",
+        tipo: "Recorrido en fincas",
       },
       {
         fecha: "Domingo 7 de julio",
         hora: "11:00 hrs",
-        descripcion: "Domingo Familiares: Show Payasitos, Lotería Cultural y Mercado de Hojas, Chispita Show conformado por Tribilín, Pelucho y Chispita.",
+        descripcion:
+          "Domingo Familiar: Show Payasitos, Lotería Cultural y Mercado de Hojas, Chispita Show conformado por Tribilín, Pelucho y Chispita.",
+        tipo: "Grupos artísticos",
+      },
+      {
+        fecha: "Domingo 7 de julio",
+        hora: "12:00 hrs",
+        descripcion: "Tlen-Huicani",
         tipo: "Grupos artísticos",
       },
       {
@@ -503,7 +511,7 @@ export const sedes: Sede[] = [
         fecha: "Viernes 5 de julio",
         hora: "",
         descripcion:
-          "Tostado de bajas emisiones de GEI - M.C. Marisol Lima Solano (Colegio de Postgraduados)",
+          "Tostado de café bajo emisiones de gases efecto invernadero - M.C. Marisol Lima Solano (Colegio de Postgraduados)",
         lugar: "Patio central de la Biblioteca Carlos Fuentes",
         tipo: "Exposición de Carteles",
       },
